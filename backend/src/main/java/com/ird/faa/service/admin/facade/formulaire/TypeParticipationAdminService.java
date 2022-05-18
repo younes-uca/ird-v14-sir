@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.TypeParticipation;
-import com.ird.faa.ws.rest.provided.vo.TypeParticipationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeParticipationVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TypeParticipationAdminService extends AbstractService<TypeParticipation,Long,TypeParticipationVo>{

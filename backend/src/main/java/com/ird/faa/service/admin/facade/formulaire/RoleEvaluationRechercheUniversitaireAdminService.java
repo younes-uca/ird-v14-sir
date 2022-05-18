@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.RoleEvaluationRechercheUniversitaire;
-import com.ird.faa.ws.rest.provided.vo.RoleEvaluationRechercheUniversitaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.RoleEvaluationRechercheUniversitaireVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface RoleEvaluationRechercheUniversitaireAdminService extends AbstractService<RoleEvaluationRechercheUniversitaire,Long,RoleEvaluationRechercheUniversitaireVo>{

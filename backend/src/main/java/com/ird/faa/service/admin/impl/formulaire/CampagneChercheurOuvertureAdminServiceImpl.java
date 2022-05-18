@@ -13,9 +13,9 @@ import com.ird.faa.dao.formulaire.CampagneChercheurOuvertureDao;
 import com.ird.faa.service.admin.facade.formulaire.CampagneChercheurOuvertureAdminService;
         import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
-import com.ird.faa.ws.rest.provided.converter.ChercheurConverter;
-import com.ird.faa.ws.rest.provided.vo.CampagneChercheurOuvertureVo;
-import com.ird.faa.ws.rest.provided.vo.ChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.converter.formulaire.ChercheurConverter;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CampagneChercheurOuvertureVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ChercheurVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

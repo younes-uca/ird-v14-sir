@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.InstrumentIrdChercheur;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.InstrumentIrdChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.InstrumentIrdChercheurVo;
 
 import java.util.List;
 

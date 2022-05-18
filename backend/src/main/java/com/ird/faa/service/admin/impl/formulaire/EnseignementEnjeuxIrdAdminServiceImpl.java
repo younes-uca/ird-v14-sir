@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.EnseignementEnjeuxIrdAdminSer
 import com.ird.faa.service.admin.facade.formulaire.EnseignementAdminService;
 import com.ird.faa.service.admin.facade.formulaire.EnjeuxIrdAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementEnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementEnjeuxIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

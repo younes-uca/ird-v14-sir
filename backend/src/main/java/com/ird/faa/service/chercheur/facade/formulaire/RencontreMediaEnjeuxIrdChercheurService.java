@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.RencontreMediaEnjeuxIrd;
-import com.ird.faa.ws.rest.provided.vo.RencontreMediaEnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.RencontreMediaEnjeuxIrdVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface RencontreMediaEnjeuxIrdChercheurService extends AbstractService<RencontreMediaEnjeuxIrd,Long,RencontreMediaEnjeuxIrdVo>{

@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.DisciplineScientifique;
-import com.ird.faa.ws.rest.provided.vo.DisciplineScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DisciplineScientifiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface DisciplineScientifiqueAdminService extends AbstractService<DisciplineScientifique,Long,DisciplineScientifiqueVo>{

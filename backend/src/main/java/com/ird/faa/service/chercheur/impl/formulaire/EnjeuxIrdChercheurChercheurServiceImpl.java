@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EnjeuxIrdChercheurCherche
         import com.ird.faa.service.chercheur.facade.formulaire.EnjeuxIrdChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EnjeuxIrdChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnjeuxIrdChercheurVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

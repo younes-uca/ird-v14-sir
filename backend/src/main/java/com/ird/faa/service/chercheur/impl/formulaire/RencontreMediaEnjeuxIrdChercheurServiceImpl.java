@@ -19,7 +19,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.RencontreMediaEnjeuxIrdCh
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.RencontreMediaEnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.RencontreMediaEnjeuxIrdVo;
 
 @Service
 public class RencontreMediaEnjeuxIrdChercheurServiceImpl extends AbstractServiceImpl<RencontreMediaEnjeuxIrd>

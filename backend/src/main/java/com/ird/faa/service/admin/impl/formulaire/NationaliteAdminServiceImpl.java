@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.Nationalite;
 import com.ird.faa.dao.formulaire.NationaliteDao;
 import com.ird.faa.service.admin.facade.formulaire.NationaliteAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.NationaliteVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NationaliteVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

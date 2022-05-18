@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueEtablissement;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.DeveloppementDeSavoirEtInnovationScientifiqueEtablissementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueEtablissementVo;
 
 import java.util.List;
 

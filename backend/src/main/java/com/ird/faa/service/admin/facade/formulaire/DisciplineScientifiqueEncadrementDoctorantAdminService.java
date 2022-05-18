@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueEncadrementDoctorant;
-import com.ird.faa.ws.rest.provided.vo.DisciplineScientifiqueEncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DisciplineScientifiqueEncadrementDoctorantVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface DisciplineScientifiqueEncadrementDoctorantAdminService extends AbstractService<DisciplineScientifiqueEncadrementDoctorant,Long,DisciplineScientifiqueEncadrementDoctorantVo>{

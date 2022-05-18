@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.FournisseurAppelProjetRecherche;
-import com.ird.faa.ws.rest.provided.vo.FournisseurAppelProjetRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FournisseurAppelProjetRechercheVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface FournisseurAppelProjetRechercheAdminService extends AbstractService<FournisseurAppelProjetRecherche,Long,FournisseurAppelProjetRechercheVo>{

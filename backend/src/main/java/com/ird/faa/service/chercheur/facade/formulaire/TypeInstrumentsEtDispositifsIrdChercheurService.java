@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.TypeInstrumentsEtDispositifsIrd;
-import com.ird.faa.ws.rest.provided.vo.TypeInstrumentsEtDispositifsIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeInstrumentsEtDispositifsIrdVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TypeInstrumentsEtDispositifsIrdChercheurService extends AbstractService<TypeInstrumentsEtDispositifsIrd,Long,TypeInstrumentsEtDispositifsIrdVo>{

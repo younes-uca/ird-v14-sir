@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.OutilPedagogiqueTypeInstrumentIrd;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.OutilPedagogiqueTypeInstrumentIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.OutilPedagogiqueTypeInstrumentIrdVo;
 
 public interface OutilPedagogiqueTypeInstrumentIrdChercheurService
 		extends AbstractService<OutilPedagogiqueTypeInstrumentIrd, Long, OutilPedagogiqueTypeInstrumentIrdVo> {

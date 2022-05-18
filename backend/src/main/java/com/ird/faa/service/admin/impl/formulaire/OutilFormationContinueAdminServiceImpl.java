@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.OutilFormationContinue;
 import com.ird.faa.dao.formulaire.OutilFormationContinueDao;
 import com.ird.faa.service.admin.facade.formulaire.OutilFormationContinueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.OutilFormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.OutilFormationContinueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

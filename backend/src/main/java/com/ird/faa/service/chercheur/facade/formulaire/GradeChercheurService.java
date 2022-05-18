@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.Grade;
-import com.ird.faa.ws.rest.provided.vo.GradeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.GradeVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface GradeChercheurService extends AbstractService<Grade,Long,GradeVo>{

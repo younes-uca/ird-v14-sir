@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.TypeUtilisateurSavoirConcu;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.TypeUtilisateurSavoirConcuVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeUtilisateurSavoirConcuVo;
 
 public interface TypeUtilisateurSavoirConcuChercheurService
 		extends AbstractService<TypeUtilisateurSavoirConcu, Long, TypeUtilisateurSavoirConcuVo> {

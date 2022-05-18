@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.InstrumentsEtDispositifsI
         import com.ird.faa.service.chercheur.facade.formulaire.TypeInstrumentsEtDispositifsIrdChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.InstrumentsEtDispositifsIrdChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.InstrumentsEtDispositifsIrdChercheurVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.ModeDiffusionDeveloppementDeS
         import com.ird.faa.service.admin.facade.formulaire.ModeDiffusionAdminService;
         import com.ird.faa.service.admin.facade.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ModeDiffusionDeveloppementDeSavoirEtInnovationScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ModeDiffusionDeveloppementDeSavoirEtInnovationScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

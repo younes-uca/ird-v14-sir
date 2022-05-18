@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.CommunauteSavoir;
 import com.ird.faa.dao.formulaire.CommunauteSavoirDao;
 import com.ird.faa.service.chercheur.facade.formulaire.CommunauteSavoirChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

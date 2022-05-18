@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.NatureExpertise;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.NatureExpertiseVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NatureExpertiseVo;
 
 public interface NatureExpertiseAdminService extends AbstractService<NatureExpertise,Long,NatureExpertiseVo>{
 

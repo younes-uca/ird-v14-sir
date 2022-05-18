@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ResponsabilitePedagogiqueEnjeuxIrd;
-import com.ird.faa.ws.rest.provided.vo.ResponsabilitePedagogiqueEnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabilitePedagogiqueEnjeuxIrdVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ResponsabilitePedagogiqueEnjeuxIrdAdminService

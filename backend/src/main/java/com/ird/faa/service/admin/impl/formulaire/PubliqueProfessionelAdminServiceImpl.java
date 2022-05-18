@@ -12,7 +12,7 @@ import com.ird.faa.bean.referentiel.PubliqueProfessionel;
 import com.ird.faa.dao.formulaire.PubliqueProfessionelDao;
 import com.ird.faa.service.admin.facade.formulaire.PubliqueProfessionelAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.PubliqueProfessionelVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.PubliqueProfessionelVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.facade.ArchivableService;

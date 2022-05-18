@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.DisciplineScientifique;
 import com.ird.faa.dao.formulaire.DisciplineScientifiqueDao;
 import com.ird.faa.service.admin.facade.formulaire.DisciplineScientifiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.DisciplineScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DisciplineScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.config;
 
 import com.ird.faa.bean.config.NiveauResponsabilitePedagogique;
-import com.ird.faa.ws.rest.provided.vo.NiveauResponsabilitePedagogiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.NiveauResponsabilitePedagogiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface NiveauResponsabilitePedagogiqueChercheurService extends AbstractService<NiveauResponsabilitePedagogique,Long,NiveauResponsabilitePedagogiqueVo>{

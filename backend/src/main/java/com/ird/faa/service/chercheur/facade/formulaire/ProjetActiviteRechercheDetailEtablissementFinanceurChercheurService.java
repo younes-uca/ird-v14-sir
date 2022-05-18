@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.ProjetActiviteRechercheDetailEtablissementFinanceur;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.ProjetActiviteRechercheDetailEtablissementFinanceurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ProjetActiviteRechercheDetailEtablissementFinanceurVo;
 
 public interface ProjetActiviteRechercheDetailEtablissementFinanceurChercheurService extends AbstractService<ProjetActiviteRechercheDetailEtablissementFinanceur,Long,ProjetActiviteRechercheDetailEtablissementFinanceurVo>{
 

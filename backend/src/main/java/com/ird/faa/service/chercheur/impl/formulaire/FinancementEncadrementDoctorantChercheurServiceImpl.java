@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.FinancementEncadrementDoc
 import com.ird.faa.service.chercheur.facade.formulaire.FinancementDoctorantChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.EncadrementDoctorantChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.FinancementEncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FinancementEncadrementDoctorantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

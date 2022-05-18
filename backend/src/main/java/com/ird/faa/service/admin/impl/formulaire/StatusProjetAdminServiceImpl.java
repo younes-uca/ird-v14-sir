@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.StatusProjet;
 import com.ird.faa.dao.formulaire.StatusProjetDao;
 import com.ird.faa.service.admin.facade.formulaire.StatusProjetAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.StatusProjetVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.StatusProjetVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

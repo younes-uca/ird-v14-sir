@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.referentiel.ModeDiffusion;
-import com.ird.faa.ws.rest.provided.vo.ModeDiffusionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ModeDiffusionVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ModeDiffusionAdminService extends AbstractService<ModeDiffusion,Long,ModeDiffusionVo>{

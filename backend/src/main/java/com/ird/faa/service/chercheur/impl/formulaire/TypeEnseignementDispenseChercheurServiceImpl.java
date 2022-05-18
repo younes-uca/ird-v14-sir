@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.TypeEnseignementDispense;
 import com.ird.faa.dao.formulaire.TypeEnseignementDispenseDao;
 import com.ird.faa.service.chercheur.facade.formulaire.TypeEnseignementDispenseChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeEnseignementDispenseVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeEnseignementDispenseVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

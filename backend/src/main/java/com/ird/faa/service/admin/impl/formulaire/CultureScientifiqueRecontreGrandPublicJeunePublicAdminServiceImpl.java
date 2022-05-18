@@ -20,7 +20,7 @@ import com.ird.faa.service.admin.facade.formulaire.CultureScientifiqueRecontreGr
         import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.CultureScientifiqueRecontreGrandPublicJeunePublicVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CultureScientifiqueRecontreGrandPublicJeunePublicVo;
 import com.ird.faa.service.util.*;
         import com.ird.faa.bean.formulaire.PublicCibleCultureScientifiqueRecontreGrandPublic;
 import com.ird.faa.bean.formulaire.ContexteCultureScientifiqueRecontreGrandPublicJeunePublic;

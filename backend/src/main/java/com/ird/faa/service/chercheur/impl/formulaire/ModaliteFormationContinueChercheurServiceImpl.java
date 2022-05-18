@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.ModaliteFormationContinue;
 import com.ird.faa.dao.formulaire.ModaliteFormationContinueDao;
 import com.ird.faa.service.chercheur.facade.formulaire.ModaliteFormationContinueChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ModaliteFormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ModaliteFormationContinueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

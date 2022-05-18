@@ -27,7 +27,7 @@ import com.ird.faa.service.admin.facade.formulaire.VieInstitutionnelleDetailInst
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.VieInstitutionnelleDetailVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.VieInstitutionnelleDetailVo;
 
 @Service
 public class VieInstitutionnelleDetailAdminServiceImpl extends AbstractServiceImpl<VieInstitutionnelleDetail> implements VieInstitutionnelleDetailAdminService {

@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.Sexe;
 import com.ird.faa.dao.formulaire.SexeDao;
 import com.ird.faa.service.admin.facade.formulaire.SexeAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.SexeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.SexeVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

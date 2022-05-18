@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.CampagneChercheurFermeture;
-import com.ird.faa.ws.rest.provided.vo.CampagneChercheurFermetureVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CampagneChercheurFermetureVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface CampagneChercheurFermetureChercheurService extends AbstractService<CampagneChercheurFermeture,Long,CampagneChercheurFermetureVo>{

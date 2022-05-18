@@ -12,7 +12,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.DisciplineScientifiqueErc
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.DisciplineScientifiqueChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DisciplineScientifiqueChercheurVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.Caracterisation;
-import com.ird.faa.ws.rest.provided.vo.CaracterisationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CaracterisationVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface CaracterisationChercheurService extends AbstractService<Caracterisation,Long,CaracterisationVo>{

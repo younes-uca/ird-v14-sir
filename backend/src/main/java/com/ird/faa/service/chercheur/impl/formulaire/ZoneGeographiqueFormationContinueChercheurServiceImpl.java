@@ -17,7 +17,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.FormationContinueChercheu
 import com.ird.faa.service.chercheur.facade.formulaire.ZoneGeographiqueChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ZoneGeographiqueFormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ZoneGeographiqueFormationContinueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

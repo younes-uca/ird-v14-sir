@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.FinancementDoctorant;
-import com.ird.faa.ws.rest.provided.vo.FinancementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FinancementDoctorantVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface FinancementDoctorantChercheurService extends AbstractService<FinancementDoctorant,Long,FinancementDoctorantVo>{

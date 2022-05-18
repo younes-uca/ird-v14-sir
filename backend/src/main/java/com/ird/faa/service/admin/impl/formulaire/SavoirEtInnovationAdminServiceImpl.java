@@ -24,7 +24,7 @@ import com.ird.faa.service.admin.facade.formulaire.SavoirEtInnovationAdminServic
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.SavoirEtInnovationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.SavoirEtInnovationVo;
 
 @Service
 public class SavoirEtInnovationAdminServiceImpl extends AbstractServiceImpl<SavoirEtInnovation>

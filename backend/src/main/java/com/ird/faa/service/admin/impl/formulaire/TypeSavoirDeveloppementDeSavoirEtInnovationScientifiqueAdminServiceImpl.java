@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.TypeSavoirDeveloppementDeSavo
         import com.ird.faa.service.admin.facade.formulaire.TypeSavoirAdminService;
         import com.ird.faa.service.admin.facade.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeSavoirDeveloppementDeSavoirEtInnovationScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TypeSavoirDeveloppementDeSavoirEtInnovationScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

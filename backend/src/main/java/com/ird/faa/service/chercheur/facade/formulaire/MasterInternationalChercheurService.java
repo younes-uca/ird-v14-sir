@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.MasterInternational;
-import com.ird.faa.ws.rest.provided.vo.MasterInternationalVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.MasterInternationalVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface MasterInternationalChercheurService extends AbstractService<MasterInternational,Long,MasterInternationalVo>{

@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.ModaliteIntervention;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.ModaliteInterventionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ModaliteInterventionVo;
 
 public interface ModaliteInterventionChercheurService
 		extends AbstractService<ModaliteIntervention, Long, ModaliteInterventionVo> {

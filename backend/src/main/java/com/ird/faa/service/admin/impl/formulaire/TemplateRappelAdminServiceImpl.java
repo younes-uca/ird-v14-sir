@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.TemplateRappel;
 import com.ird.faa.dao.formulaire.TemplateRappelDao;
 import com.ird.faa.service.admin.facade.formulaire.TemplateRappelAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TemplateRappelVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TemplateRappelVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

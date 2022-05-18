@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.EnjeuxIrdChercheur;
-import com.ird.faa.ws.rest.provided.vo.EnjeuxIrdChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnjeuxIrdChercheurVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EnjeuxIrdChercheurChercheurService extends AbstractService<EnjeuxIrdChercheur,Long,EnjeuxIrdChercheurVo>{

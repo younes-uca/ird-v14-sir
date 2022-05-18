@@ -10,7 +10,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.InstrumentIrdChercheurSer
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.InstrumentIrdChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.InstrumentIrdChercheurVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

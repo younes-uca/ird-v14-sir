@@ -20,7 +20,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.VieInstitutionnelleDetail
 import com.ird.faa.service.chercheur.facade.formulaire.CampagneChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.VieInstitutionnelleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.VieInstitutionnelleVo;
 import com.ird.faa.service.util.*;
 import com.ird.faa.bean.formulaire.VieInstitutionnelleDetail;
 

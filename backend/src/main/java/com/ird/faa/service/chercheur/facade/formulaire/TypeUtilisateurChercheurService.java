@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.TypeUtilisateur;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.TypeUtilisateurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TypeUtilisateurVo;
 
 public interface TypeUtilisateurChercheurService extends AbstractService<TypeUtilisateur, Long, TypeUtilisateurVo> {
 

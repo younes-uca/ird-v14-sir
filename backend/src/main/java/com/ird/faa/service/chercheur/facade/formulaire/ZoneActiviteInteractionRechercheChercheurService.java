@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ZoneActiviteInteractionRecherche;
-import com.ird.faa.ws.rest.provided.vo.ZoneActiviteInteractionRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ZoneActiviteInteractionRechercheVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ZoneActiviteInteractionRechercheChercheurService extends AbstractService<ZoneActiviteInteractionRecherche,Long,ZoneActiviteInteractionRechercheVo>{

@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.EncadrementEtudiant;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.EncadrementEtudiantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EncadrementEtudiantVo;
 
 public interface EncadrementEtudiantChercheurService extends AbstractService<EncadrementEtudiant,Long,EncadrementEtudiantVo>{
 

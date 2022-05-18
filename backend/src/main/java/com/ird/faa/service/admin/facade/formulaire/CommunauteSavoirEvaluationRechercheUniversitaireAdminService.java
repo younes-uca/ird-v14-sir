@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.CommunauteSavoirEvaluationRechercheUniversitaire;
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirEvaluationRechercheUniversitaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirEvaluationRechercheUniversitaireVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface CommunauteSavoirEvaluationRechercheUniversitaireAdminService extends AbstractService<CommunauteSavoirEvaluationRechercheUniversitaire,Long,CommunauteSavoirEvaluationRechercheUniversitaireVo>{

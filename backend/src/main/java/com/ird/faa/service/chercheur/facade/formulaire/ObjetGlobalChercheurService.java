@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.ObjetGlobal;
-import com.ird.faa.ws.rest.provided.vo.ObjetGlobalVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ObjetGlobalVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ObjetGlobalChercheurService extends AbstractService<ObjetGlobal,Long,ObjetGlobalVo>{

@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.Enseignement;
-import com.ird.faa.ws.rest.provided.vo.EnseignementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EnseignementAdminService extends AbstractService<Enseignement,Long,EnseignementVo>{

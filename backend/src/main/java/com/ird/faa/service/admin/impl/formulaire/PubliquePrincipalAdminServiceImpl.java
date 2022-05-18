@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.PubliquePrincipal;
 import com.ird.faa.dao.formulaire.PubliquePrincipalDao;
 import com.ird.faa.service.admin.facade.formulaire.PubliquePrincipalAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.PubliquePrincipalVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PubliquePrincipalVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

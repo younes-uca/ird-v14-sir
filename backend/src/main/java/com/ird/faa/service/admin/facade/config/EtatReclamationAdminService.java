@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.config;
 
 import com.ird.faa.bean.config.EtatReclamation;
-import com.ird.faa.ws.rest.provided.vo.EtatReclamationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.EtatReclamationVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EtatReclamationAdminService extends AbstractService<EtatReclamation,Long,EtatReclamationVo>{

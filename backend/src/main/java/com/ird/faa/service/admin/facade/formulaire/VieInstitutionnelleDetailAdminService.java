@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.VieInstitutionnelleDetail;
-import com.ird.faa.ws.rest.provided.vo.VieInstitutionnelleDetailVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.VieInstitutionnelleDetailVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface VieInstitutionnelleDetailAdminService extends AbstractService<VieInstitutionnelleDetail,Long,VieInstitutionnelleDetailVo>{

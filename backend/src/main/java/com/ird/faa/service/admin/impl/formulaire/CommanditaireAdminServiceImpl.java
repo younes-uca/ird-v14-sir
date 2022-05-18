@@ -14,7 +14,7 @@ import com.ird.faa.dao.formulaire.CommanditaireDao;
 import com.ird.faa.service.admin.facade.formulaire.CommanditaireAdminService;
 import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.CommanditaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommanditaireVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.facade.ArchivableService;

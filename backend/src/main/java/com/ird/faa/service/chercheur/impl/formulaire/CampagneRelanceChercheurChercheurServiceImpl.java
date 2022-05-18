@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.CampagneRelanceChercheurC
         import com.ird.faa.service.chercheur.facade.formulaire.CampagneRelanceChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CampagneRelanceChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CampagneRelanceChercheurVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

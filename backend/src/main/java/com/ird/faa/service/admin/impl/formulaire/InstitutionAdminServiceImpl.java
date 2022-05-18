@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.Institution;
 import com.ird.faa.dao.formulaire.InstitutionDao;
 import com.ird.faa.service.admin.facade.formulaire.InstitutionAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.InstitutionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.InstitutionVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

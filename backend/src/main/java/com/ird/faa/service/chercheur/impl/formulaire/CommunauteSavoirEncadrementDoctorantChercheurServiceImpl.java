@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.CommunauteSavoirEncadreme
 import com.ird.faa.service.chercheur.facade.formulaire.EncadrementDoctorantChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.CommunauteSavoirChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirEncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirEncadrementDoctorantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

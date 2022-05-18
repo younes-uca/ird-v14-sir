@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.TemplateRelance;
 import com.ird.faa.dao.formulaire.TemplateRelanceDao;
 import com.ird.faa.service.chercheur.facade.formulaire.TemplateRelanceChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.TemplateRelanceVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TemplateRelanceVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

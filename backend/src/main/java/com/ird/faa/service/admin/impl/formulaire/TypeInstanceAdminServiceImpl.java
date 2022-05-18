@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.TypeInstance;
 import com.ird.faa.dao.formulaire.TypeInstanceDao;
 import com.ird.faa.service.admin.facade.formulaire.TypeInstanceAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeInstanceVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeInstanceVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

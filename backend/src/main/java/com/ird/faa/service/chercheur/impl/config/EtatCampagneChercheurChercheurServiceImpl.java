@@ -10,7 +10,7 @@ import com.ird.faa.bean.config.EtatCampagneChercheur;
 import com.ird.faa.dao.config.EtatCampagneChercheurDao;
 import com.ird.faa.service.chercheur.facade.config.EtatCampagneChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EtatCampagneChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.EtatCampagneChercheurVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

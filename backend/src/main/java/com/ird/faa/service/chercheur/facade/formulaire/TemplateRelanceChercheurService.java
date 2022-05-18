@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.TemplateRelance;
-import com.ird.faa.ws.rest.provided.vo.TemplateRelanceVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TemplateRelanceVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TemplateRelanceChercheurService extends AbstractService<TemplateRelance,Long,TemplateRelanceVo>{

@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.NiveauEtudeEnseignementAdminS
 import com.ird.faa.service.admin.facade.formulaire.EnseignementAdminService;
 import com.ird.faa.service.admin.facade.formulaire.NiveauEtudeAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.NiveauEtudeEnseignementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.NiveauEtudeEnseignementVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

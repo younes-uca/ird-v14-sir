@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EtablissementCultureScien
         import com.ird.faa.service.chercheur.facade.formulaire.CultureScientifiqueRecontreGrandPublicJeunePublicChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.EtablissementChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EtablissementCultureScientifiqueRecontreGrandPublicJeunePublicVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EtablissementCultureScientifiqueRecontreGrandPublicJeunePublicVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

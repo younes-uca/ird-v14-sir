@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.NatureEnseignement;
-import com.ird.faa.ws.rest.provided.vo.NatureEnseignementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NatureEnseignementVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface NatureEnseignementAdminService extends AbstractService<NatureEnseignement,Long,NatureEnseignementVo>{

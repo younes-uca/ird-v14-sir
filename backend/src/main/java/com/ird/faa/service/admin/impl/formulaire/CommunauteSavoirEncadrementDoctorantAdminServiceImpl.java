@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.CommunauteSavoirEncadrementDo
 import com.ird.faa.service.admin.facade.formulaire.EncadrementDoctorantAdminService;
 import com.ird.faa.service.admin.facade.formulaire.CommunauteSavoirAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirEncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirEncadrementDoctorantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

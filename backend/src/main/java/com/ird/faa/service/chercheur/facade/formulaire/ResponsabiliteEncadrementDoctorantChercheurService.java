@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.ResponsabiliteEncadrementDoctorant;
-import com.ird.faa.ws.rest.provided.vo.ResponsabiliteEncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabiliteEncadrementDoctorantVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ResponsabiliteEncadrementDoctorantChercheurService extends AbstractService<ResponsabiliteEncadrementDoctorant,Long,ResponsabiliteEncadrementDoctorantVo>{

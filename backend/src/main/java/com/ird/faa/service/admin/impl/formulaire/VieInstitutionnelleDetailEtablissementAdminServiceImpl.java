@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.VieInstitutionnelleDetailEtab
 import com.ird.faa.service.admin.facade.formulaire.VieInstitutionnelleDetailAdminService;
 import com.ird.faa.service.admin.facade.formulaire.EtablissementAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.VieInstitutionnelleDetailEtablissementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.VieInstitutionnelleDetailEtablissementVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

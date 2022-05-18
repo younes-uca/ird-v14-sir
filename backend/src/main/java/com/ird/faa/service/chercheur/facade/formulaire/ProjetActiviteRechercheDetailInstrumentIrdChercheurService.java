@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ProjetActiviteRechercheDetailInstrumentIrd;
-import com.ird.faa.ws.rest.provided.vo.ProjetActiviteRechercheDetailInstrumentIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ProjetActiviteRechercheDetailInstrumentIrdVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ProjetActiviteRechercheDetailInstrumentIrdChercheurService extends AbstractService<ProjetActiviteRechercheDetailInstrumentIrd,Long,ProjetActiviteRechercheDetailInstrumentIrdVo>{

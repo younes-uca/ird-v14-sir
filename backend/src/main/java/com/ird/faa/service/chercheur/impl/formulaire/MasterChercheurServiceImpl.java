@@ -12,7 +12,7 @@ import com.ird.faa.dao.formulaire.MasterDao;
 import com.ird.faa.service.chercheur.facade.formulaire.MasterChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.MasterVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.MasterVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

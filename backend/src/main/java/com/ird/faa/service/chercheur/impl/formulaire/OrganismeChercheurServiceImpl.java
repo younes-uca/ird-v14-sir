@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.Organisme;
 import com.ird.faa.dao.formulaire.OrganismeDao;
 import com.ird.faa.service.chercheur.facade.formulaire.OrganismeChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.OrganismeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.OrganismeVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -19,7 +19,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.OutilPedagogiqueEnjeuxIrd
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.OutilPedagogiqueEnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.OutilPedagogiqueEnjeuxIrdVo;
 
 @Service
 public class OutilPedagogiqueEnjeuxIrdChercheurServiceImpl extends AbstractServiceImpl<OutilPedagogiqueEnjeuxIrd>

@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.config;
 
 import com.ird.faa.bean.config.Langue;
-import com.ird.faa.ws.rest.provided.vo.LangueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.LangueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface LangueChercheurService extends AbstractService<Langue,Long,LangueVo>{

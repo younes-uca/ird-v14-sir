@@ -12,7 +12,7 @@ import com.ird.faa.bean.formulaire.CategorieFaq;
 import com.ird.faa.dao.formulaire.CategorieFaqDao;
 import com.ird.faa.service.chercheur.facade.formulaire.CategorieFaqChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CategorieFaqVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CategorieFaqVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

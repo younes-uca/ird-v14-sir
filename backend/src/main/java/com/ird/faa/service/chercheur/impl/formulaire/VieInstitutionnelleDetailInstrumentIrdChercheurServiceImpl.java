@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.VieInstitutionnelleDetail
 import com.ird.faa.service.chercheur.facade.formulaire.VieInstitutionnelleDetailChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.InstrumentIrdChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.VieInstitutionnelleDetailInstrumentIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.VieInstitutionnelleDetailInstrumentIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

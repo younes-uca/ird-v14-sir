@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.IdentifiantAuteurExpertAdminS
         import com.ird.faa.service.admin.facade.formulaire.IdentifiantRechercheAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.IdentifiantAuteurExpertVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.IdentifiantAuteurExpertVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

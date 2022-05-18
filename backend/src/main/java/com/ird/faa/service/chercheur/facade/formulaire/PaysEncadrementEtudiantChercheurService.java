@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.PaysEncadrementEtudiant;
-import com.ird.faa.ws.rest.provided.vo.PaysEncadrementEtudiantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysEncadrementEtudiantVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PaysEncadrementEtudiantChercheurService extends AbstractService<PaysEncadrementEtudiant,Long,PaysEncadrementEtudiantVo>{

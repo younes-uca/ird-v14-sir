@@ -2,8 +2,8 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.referentiel.Pays;
-import com.ird.faa.ws.rest.provided.vo.PaysVo;
-import com.ird.faa.ws.rest.provided.vo.PaysZoneGeographiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.PaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysZoneGeographiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PaysChercheurService extends AbstractService<Pays,Long,PaysVo>{

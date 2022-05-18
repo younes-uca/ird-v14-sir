@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.StatutEcoleDoctorale;
 import com.ird.faa.dao.formulaire.StatutEcoleDoctoraleDao;
 import com.ird.faa.service.admin.facade.formulaire.StatutEcoleDoctoraleAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.StatutEcoleDoctoraleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.StatutEcoleDoctoraleVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

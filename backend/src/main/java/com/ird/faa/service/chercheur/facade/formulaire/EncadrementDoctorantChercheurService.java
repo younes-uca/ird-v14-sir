@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.EncadrementDoctorant;
-import com.ird.faa.ws.rest.provided.vo.EncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EncadrementDoctorantVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EncadrementDoctorantChercheurService extends AbstractService<EncadrementDoctorant,Long,EncadrementDoctorantVo>{

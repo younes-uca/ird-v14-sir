@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.config;
 
 import com.ird.faa.bean.config.EtatEtapeCampagne;
-import com.ird.faa.ws.rest.provided.vo.EtatEtapeCampagneVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.EtatEtapeCampagneVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EtatEtapeCampagneChercheurService extends AbstractService<EtatEtapeCampagne,Long,EtatEtapeCampagneVo>{

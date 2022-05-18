@@ -24,7 +24,7 @@ import com.ird.faa.service.admin.facade.formulaire.ExpertiseScientifiqueAdminSer
         import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ExpertiseScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ExpertiseScientifiqueVo;
 import com.ird.faa.service.util.*;
         import com.ird.faa.bean.formulaire.CommunauteSavoirExpertiseScientifique;
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueExpertiseScientifique;

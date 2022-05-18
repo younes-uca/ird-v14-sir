@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.Nationalite;
-import com.ird.faa.ws.rest.provided.vo.NationaliteVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NationaliteVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface NationaliteAdminService extends AbstractService<Nationalite,Long,NationaliteVo>{

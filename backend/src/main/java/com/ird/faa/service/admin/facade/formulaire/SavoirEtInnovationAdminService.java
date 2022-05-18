@@ -3,7 +3,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 import java.util.List;
 import com.ird.faa.bean.formulaire.SavoirEtInnovation;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.SavoirEtInnovationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.SavoirEtInnovationVo;
 
 public interface SavoirEtInnovationAdminService
 		extends AbstractService<SavoirEtInnovation, Long, SavoirEtInnovationVo> {

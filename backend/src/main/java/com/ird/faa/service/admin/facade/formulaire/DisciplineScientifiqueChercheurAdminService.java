@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueChercheur;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.DisciplineScientifiqueChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DisciplineScientifiqueChercheurVo;
 
 import java.util.List;
 

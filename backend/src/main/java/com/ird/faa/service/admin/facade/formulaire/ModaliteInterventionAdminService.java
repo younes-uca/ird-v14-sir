@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.ModaliteIntervention;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.ModaliteInterventionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ModaliteInterventionVo;
 
 public interface ModaliteInterventionAdminService
 		extends AbstractService<ModaliteIntervention, Long, ModaliteInterventionVo> {

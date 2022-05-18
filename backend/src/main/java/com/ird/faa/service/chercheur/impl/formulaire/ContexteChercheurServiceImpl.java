@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.Contexte;
 import com.ird.faa.dao.formulaire.ContexteDao;
 import com.ird.faa.service.chercheur.facade.formulaire.ContexteChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ContexteVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ContexteVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

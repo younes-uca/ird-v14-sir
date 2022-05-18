@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.TypeReclamation;
 import com.ird.faa.dao.formulaire.TypeReclamationDao;
 import com.ird.faa.service.admin.facade.formulaire.TypeReclamationAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeReclamationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeReclamationVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

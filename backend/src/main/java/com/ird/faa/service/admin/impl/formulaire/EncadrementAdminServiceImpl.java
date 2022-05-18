@@ -18,7 +18,7 @@ import com.ird.faa.service.admin.facade.formulaire.EncadrementDoctorantAdminServ
 import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
 import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EncadrementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EncadrementVo;
 import com.ird.faa.service.util.*;
 import com.ird.faa.bean.formulaire.EncadrementEtudiant;
 import com.ird.faa.bean.formulaire.EncadrementDoctorant;

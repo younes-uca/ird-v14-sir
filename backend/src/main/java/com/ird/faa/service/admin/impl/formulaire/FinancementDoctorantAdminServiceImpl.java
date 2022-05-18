@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.FinancementDoctorant;
 import com.ird.faa.dao.formulaire.FinancementDoctorantDao;
 import com.ird.faa.service.admin.facade.formulaire.FinancementDoctorantAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.FinancementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FinancementDoctorantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

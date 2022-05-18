@@ -28,7 +28,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.SavoirEtInnovationCherche
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.EvenementColloqueScienntifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EvenementColloqueScienntifiqueVo;
 
 @Service
 public class EvenementColloqueScienntifiqueChercheurServiceImpl extends

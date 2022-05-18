@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.DistinctionEtablissementPays;
-import com.ird.faa.ws.rest.provided.vo.DistinctionEtablissementPaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DistinctionEtablissementPaysVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface DistinctionEtablissementPaysAdminService

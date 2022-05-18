@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.ResponsabilitePedagogiqueEnje
 import com.ird.faa.service.admin.facade.formulaire.EnjeuxIrdAdminService;
 import com.ird.faa.service.admin.facade.formulaire.ResponsabilitePedagogiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ResponsabilitePedagogiqueEnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabilitePedagogiqueEnjeuxIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

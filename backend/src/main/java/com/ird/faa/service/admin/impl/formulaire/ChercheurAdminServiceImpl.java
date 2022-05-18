@@ -44,7 +44,7 @@ import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
         import com.ird.faa.service.admin.facade.formulaire.VilleAdminService;
         import com.ird.faa.service.admin.facade.formulaire.InstrumentsEtDispositifsIrdChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ChercheurVo;
 import com.ird.faa.service.util.*;
         import com.ird.faa.bean.formulaire.DomaineScientifiqueChercheur;
 import com.ird.faa.bean.formulaire.ZoneActiviteInteractionRecherche;

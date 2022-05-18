@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.ObjetFormationGenerique;
-import com.ird.faa.ws.rest.provided.vo.ObjetFormationGeneriqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ObjetFormationGeneriqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ObjetFormationGeneriqueChercheurService extends AbstractService<ObjetFormationGenerique,Long,ObjetFormationGeneriqueVo>{

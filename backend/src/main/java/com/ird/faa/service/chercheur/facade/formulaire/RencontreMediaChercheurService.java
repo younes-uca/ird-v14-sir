@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.RencontreMedia;
-import com.ird.faa.ws.rest.provided.vo.RencontreMediaVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.RencontreMediaVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface RencontreMediaChercheurService extends AbstractService<RencontreMedia,Long,RencontreMediaVo>{

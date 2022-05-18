@@ -23,7 +23,7 @@ import com.ird.faa.service.admin.facade.formulaire.GestionEquipeDetailAdminServi
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.GestionEquipeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.GestionEquipeVo;
 
 @Service
 public class GestionEquipeAdminServiceImpl extends AbstractServiceImpl<GestionEquipe> implements GestionEquipeAdminService {

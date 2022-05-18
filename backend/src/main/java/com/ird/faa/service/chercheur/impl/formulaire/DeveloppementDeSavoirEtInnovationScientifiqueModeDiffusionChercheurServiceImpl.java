@@ -16,7 +16,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.ModeDiffusionChercheurSer
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusionVo;
 
 @Service
 public class DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusionChercheurServiceImpl

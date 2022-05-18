@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.ZoneGeographique;
-import com.ird.faa.ws.rest.provided.vo.ZoneGeographiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ZoneGeographiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ZoneGeographiqueChercheurService extends AbstractService<ZoneGeographique,Long,ZoneGeographiqueVo>{

@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.DomaineScientifiqueChercheurA
         import com.ird.faa.service.admin.facade.formulaire.DomaineScientifiqueAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.DomaineScientifiqueChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DomaineScientifiqueChercheurVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.security.core.userdetails.UserDetailsService;
 
 import com.ird.faa.bean.formulaire.Chercheur;
-import com.ird.faa.ws.rest.provided.vo.ChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ChercheurVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ChercheurChercheurService extends AbstractService<Chercheur,Long,ChercheurVo>,  UserDetailsService {

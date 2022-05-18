@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.NiveauEtude;
 import com.ird.faa.dao.formulaire.NiveauEtudeDao;
 import com.ird.faa.service.admin.facade.formulaire.NiveauEtudeAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.NiveauEtudeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NiveauEtudeVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

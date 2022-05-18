@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ModeDiffusionDeveloppementDeSavoirEtInnovationScientifique;
-import com.ird.faa.ws.rest.provided.vo.ModeDiffusionDeveloppementDeSavoirEtInnovationScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ModeDiffusionDeveloppementDeSavoirEtInnovationScientifiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ModeDiffusionDeveloppementDeSavoirEtInnovationScientifiqueAdminService extends AbstractService<ModeDiffusionDeveloppementDeSavoirEtInnovationScientifique,Long,ModeDiffusionDeveloppementDeSavoirEtInnovationScientifiqueVo>{

@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.CampagneChercheur;
-import com.ird.faa.ws.rest.provided.vo.CampagneChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CampagneChercheurVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface CampagneChercheurAdminService extends AbstractService<CampagneChercheur,Long,CampagneChercheurVo>{

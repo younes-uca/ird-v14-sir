@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.EtablissementProjetAdminServi
         import com.ird.faa.service.admin.facade.formulaire.VilleAdminService;
         import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EtablissementProjetVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EtablissementProjetVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

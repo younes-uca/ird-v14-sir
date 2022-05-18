@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.TypeOutil;
-import com.ird.faa.ws.rest.provided.vo.TypeOutilVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeOutilVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TypeOutilAdminService extends AbstractService<TypeOutil,Long,TypeOutilVo>{

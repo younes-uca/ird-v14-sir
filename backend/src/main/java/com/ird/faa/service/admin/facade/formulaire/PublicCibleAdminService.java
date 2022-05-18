@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.PublicCible;
-import com.ird.faa.ws.rest.provided.vo.PublicCibleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.PublicCibleVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PublicCibleAdminService extends AbstractService<PublicCible,Long,PublicCibleVo>{

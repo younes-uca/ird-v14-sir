@@ -22,7 +22,7 @@ import com.ird.faa.service.admin.facade.formulaire.ConseilEtComiteScientifiqueAd
         import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ConseilEtComiteScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ConseilEtComiteScientifiqueVo;
 import com.ird.faa.service.util.*;
         import com.ird.faa.bean.formulaire.CommunauteSavoirConseilEtComiteScientifique;
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueConseilEtComiteScientifique;

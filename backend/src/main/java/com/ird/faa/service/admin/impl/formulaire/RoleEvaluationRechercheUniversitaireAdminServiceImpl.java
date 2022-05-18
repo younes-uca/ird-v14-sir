@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.RoleEvaluationRechercheUniversitaire;
 import com.ird.faa.dao.formulaire.RoleEvaluationRechercheUniversitaireDao;
 import com.ird.faa.service.admin.facade.formulaire.RoleEvaluationRechercheUniversitaireAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.RoleEvaluationRechercheUniversitaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.RoleEvaluationRechercheUniversitaireVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -12,7 +12,7 @@ import com.ird.faa.dao.formulaire.EntiteAdministrativeDao;
 import com.ird.faa.service.chercheur.facade.formulaire.EntiteAdministrativeChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.TypeEntiteAdministrativeChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EntiteAdministrativeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.EntiteAdministrativeVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

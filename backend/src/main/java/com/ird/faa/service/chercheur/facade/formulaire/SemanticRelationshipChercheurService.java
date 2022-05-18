@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.SemanticRelationship;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.SemanticRelationshipVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.SemanticRelationshipVo;
 
 public interface SemanticRelationshipChercheurService extends AbstractService<SemanticRelationship,Long,SemanticRelationshipVo>{
 

@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.EnseignementNatureAdminServic
 import com.ird.faa.service.admin.facade.formulaire.EnseignementAdminService;
 import com.ird.faa.service.admin.facade.formulaire.NatureEnseignementAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementNatureVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementNatureVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

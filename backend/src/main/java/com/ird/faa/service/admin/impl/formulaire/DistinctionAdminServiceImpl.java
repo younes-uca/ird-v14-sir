@@ -27,7 +27,7 @@ import com.ird.faa.service.admin.facade.formulaire.TypeParticipationAdminService
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.DistinctionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DistinctionVo;
 
 @Service
 public class DistinctionAdminServiceImpl extends AbstractServiceImpl<Distinction> implements DistinctionAdminService {

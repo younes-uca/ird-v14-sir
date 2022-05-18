@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.StructureIrd;
 import com.ird.faa.dao.formulaire.StructureIrdDao;
 import com.ird.faa.service.admin.facade.formulaire.StructureIrdAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.StructureIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.StructureIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -16,7 +16,7 @@ import com.ird.faa.service.admin.facade.formulaire.EvenementColloqueScientifique
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.EvenementColloqueScientifiqueInstrumentIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EvenementColloqueScientifiqueInstrumentIrdVo;
 
 @Service
 public class EvenementColloqueScientifiqueInstrumentIrdAdminServiceImpl

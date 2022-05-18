@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.CommunauteSavoirExpertiseScie
         import com.ird.faa.service.admin.facade.formulaire.ExpertiseScientifiqueAdminService;
         import com.ird.faa.service.admin.facade.formulaire.CommunauteSavoirAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirExpertiseScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirExpertiseScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

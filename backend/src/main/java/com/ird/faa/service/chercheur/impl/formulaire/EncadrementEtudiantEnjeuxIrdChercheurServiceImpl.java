@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EncadrementEtudiantEnjeux
 import com.ird.faa.service.chercheur.facade.formulaire.EncadrementEtudiantChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.EnjeuxIrdChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EncadrementEtudiantEnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EncadrementEtudiantEnjeuxIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

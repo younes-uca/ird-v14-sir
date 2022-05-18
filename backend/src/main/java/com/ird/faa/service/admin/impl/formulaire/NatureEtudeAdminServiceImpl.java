@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.NatureEtude;
 import com.ird.faa.dao.formulaire.NatureEtudeDao;
 import com.ird.faa.service.admin.facade.formulaire.NatureEtudeAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.NatureEtudeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NatureEtudeVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

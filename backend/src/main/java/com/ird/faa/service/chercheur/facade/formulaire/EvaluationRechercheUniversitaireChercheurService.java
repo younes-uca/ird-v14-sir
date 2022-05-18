@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.EvaluationRechercheUniversitaire;
-import com.ird.faa.ws.rest.provided.vo.EvaluationRechercheUniversitaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EvaluationRechercheUniversitaireVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EvaluationRechercheUniversitaireChercheurService extends AbstractService<EvaluationRechercheUniversitaire,Long,EvaluationRechercheUniversitaireVo>{

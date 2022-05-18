@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.ResponsabiliteDirectionEncadrementEtudiant;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.ResponsabiliteDirectionEncadrementEtudiantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabiliteDirectionEncadrementEtudiantVo;
 
 public interface ResponsabiliteDirectionEncadrementEtudiantAdminService extends AbstractService<ResponsabiliteDirectionEncadrementEtudiant,Long,ResponsabiliteDirectionEncadrementEtudiantVo>{
 

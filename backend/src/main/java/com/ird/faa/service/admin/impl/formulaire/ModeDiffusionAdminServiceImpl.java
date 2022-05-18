@@ -12,7 +12,7 @@ import com.ird.faa.dao.formulaire.ModeDiffusionDao;
 import com.ird.faa.service.admin.facade.formulaire.ModeDiffusionAdminService;
         import com.ird.faa.service.admin.facade.formulaire.TypeSavoirAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ModeDiffusionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ModeDiffusionVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

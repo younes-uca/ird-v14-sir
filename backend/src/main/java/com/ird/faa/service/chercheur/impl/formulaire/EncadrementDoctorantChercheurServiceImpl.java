@@ -31,7 +31,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EtablissementChercheurSer
 import com.ird.faa.service.chercheur.facade.formulaire.EtablissementEncadrementDoctorantChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysEncadrementDoctorantChercheurService;
-import com.ird.faa.ws.rest.provided.vo.EncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EncadrementDoctorantVo;
 import com.ird.faa.service.util.*;
 import com.ird.faa.bean.formulaire.EnjeuxIrdEncadrementDoctorant;
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueEncadrementDoctorant;

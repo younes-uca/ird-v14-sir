@@ -18,7 +18,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.GestionEquipeDetailCherch
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.GestionEquipeDetailVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.GestionEquipeDetailVo;
 
 @Service
 public class GestionEquipeDetailChercheurServiceImpl extends AbstractServiceImpl<GestionEquipeDetail>

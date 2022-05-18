@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.CommunauteSavoirConseilEt
         import com.ird.faa.service.chercheur.facade.formulaire.ConseilEtComiteScientifiqueChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.CommunauteSavoirChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirConseilEtComiteScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirConseilEtComiteScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

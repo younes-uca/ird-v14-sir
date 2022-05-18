@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.GestionEquipe;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.GestionEquipeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.GestionEquipeVo;
 
 public interface GestionEquipeChercheurService extends AbstractService<GestionEquipe,Long,GestionEquipeVo>{
 

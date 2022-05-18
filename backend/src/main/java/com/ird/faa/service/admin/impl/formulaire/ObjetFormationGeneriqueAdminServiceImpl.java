@@ -12,7 +12,7 @@ import com.ird.faa.bean.formulaire.ObjetFormationGenerique;
 import com.ird.faa.dao.formulaire.ObjetFormationGeneriqueDao;
 import com.ird.faa.service.admin.facade.formulaire.ObjetFormationGeneriqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ObjetFormationGeneriqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ObjetFormationGeneriqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.facade.ArchivableService;

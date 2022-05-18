@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.IdentifiantRecherche;
-import com.ird.faa.ws.rest.provided.vo.IdentifiantRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.IdentifiantRechercheVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface IdentifiantRechercheChercheurService extends AbstractService<IdentifiantRecherche,Long,IdentifiantRechercheVo>{

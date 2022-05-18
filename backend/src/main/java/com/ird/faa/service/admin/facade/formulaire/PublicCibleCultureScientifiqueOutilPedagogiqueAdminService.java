@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.PublicCibleCultureScientifiqueOutilPedagogique;
-import com.ird.faa.ws.rest.provided.vo.PublicCibleCultureScientifiqueOutilPedagogiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PublicCibleCultureScientifiqueOutilPedagogiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PublicCibleCultureScientifiqueOutilPedagogiqueAdminService extends AbstractService<PublicCibleCultureScientifiqueOutilPedagogique,Long,PublicCibleCultureScientifiqueOutilPedagogiqueVo>{

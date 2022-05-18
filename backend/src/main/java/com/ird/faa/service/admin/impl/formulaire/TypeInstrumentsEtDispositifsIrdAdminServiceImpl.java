@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.TypeInstrumentsEtDispositifsIrd;
 import com.ird.faa.dao.formulaire.TypeInstrumentsEtDispositifsIrdDao;
 import com.ird.faa.service.admin.facade.formulaire.TypeInstrumentsEtDispositifsIrdAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeInstrumentsEtDispositifsIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeInstrumentsEtDispositifsIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

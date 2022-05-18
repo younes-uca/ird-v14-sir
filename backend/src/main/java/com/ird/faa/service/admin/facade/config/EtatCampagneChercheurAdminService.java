@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.config;
 
 import com.ird.faa.bean.config.EtatCampagneChercheur;
-import com.ird.faa.ws.rest.provided.vo.EtatCampagneChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.EtatCampagneChercheurVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EtatCampagneChercheurAdminService extends AbstractService<EtatCampagneChercheur,Long,EtatCampagneChercheurVo>{

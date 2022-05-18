@@ -17,7 +17,7 @@ import com.ird.faa.service.admin.facade.formulaire.EnseignementZoneGeographiqueA
         import com.ird.faa.service.admin.facade.formulaire.ZoneGeographiqueAdminService;
         import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementZoneGeographiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementZoneGeographiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -31,7 +31,7 @@ import com.ird.faa.service.admin.facade.formulaire.FormationContinueCommanditair
 import com.ird.faa.service.admin.facade.formulaire.FormationContinuePubliqueProfessionelAdminService;
 import com.ird.faa.service.admin.facade.formulaire.PaysFormationContinueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.FormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormationContinueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

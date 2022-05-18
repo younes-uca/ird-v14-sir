@@ -20,7 +20,7 @@ import com.ird.faa.service.admin.facade.formulaire.CampagneRelanceAdminService;
         import com.ird.faa.service.admin.facade.formulaire.TemplateRelanceAdminService;
         import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
 import com.ird.faa.service.admin.facade.formulaire.CampagneChercheurOuvertureAdminService;
-import com.ird.faa.ws.rest.provided.vo.CampagneRelanceVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CampagneRelanceVo;
 import com.ird.faa.service.util.*;
         import com.ird.faa.bean.formulaire.CampagneRelanceChercheur;
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

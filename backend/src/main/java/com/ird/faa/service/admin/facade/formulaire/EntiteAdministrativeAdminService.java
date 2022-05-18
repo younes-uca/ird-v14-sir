@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.referentiel.EntiteAdministrative;
-import com.ird.faa.ws.rest.provided.vo.EntiteAdministrativeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.EntiteAdministrativeVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EntiteAdministrativeAdminService extends AbstractService<EntiteAdministrative,Long,EntiteAdministrativeVo>{

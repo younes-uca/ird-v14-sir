@@ -17,7 +17,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.CommanditaireChercheurSer
 import com.ird.faa.service.chercheur.facade.formulaire.FormationContinueChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.FormationContinueCommanditaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormationContinueCommanditaireVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

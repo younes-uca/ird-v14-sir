@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.ProjetActiviteRechercheDetail
 import com.ird.faa.service.admin.facade.formulaire.ProjetActiviteRechercheDetailAdminService;
 import com.ird.faa.service.admin.facade.formulaire.InstrumentIrdAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ProjetActiviteRechercheDetailInstrumentIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ProjetActiviteRechercheDetailInstrumentIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

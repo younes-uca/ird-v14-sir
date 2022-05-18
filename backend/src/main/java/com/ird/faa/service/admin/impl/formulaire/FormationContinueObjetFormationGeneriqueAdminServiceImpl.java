@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.FormationContinueObjetFormati
 import com.ird.faa.service.admin.facade.formulaire.ObjetFormationGeneriqueAdminService;
 import com.ird.faa.service.admin.facade.formulaire.FormationContinueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.FormationContinueObjetFormationGeneriqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormationContinueObjetFormationGeneriqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

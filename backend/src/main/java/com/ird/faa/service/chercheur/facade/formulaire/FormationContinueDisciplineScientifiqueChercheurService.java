@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.FormationContinueDisciplineScientifique;
-import com.ird.faa.ws.rest.provided.vo.FormationContinueDisciplineScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormationContinueDisciplineScientifiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface FormationContinueDisciplineScientifiqueChercheurService extends AbstractService<FormationContinueDisciplineScientifique,Long,FormationContinueDisciplineScientifiqueVo>{

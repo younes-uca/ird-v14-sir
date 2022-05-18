@@ -11,7 +11,7 @@ import com.ird.faa.bean.referentiel.NiveauFormationPostBac;
 import com.ird.faa.dao.formulaire.NiveauFormationPostBacDao;
 import com.ird.faa.service.admin.facade.formulaire.NiveauFormationPostBacAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.NiveauFormationPostBacVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NiveauFormationPostBacVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.facade.ArchivableService;

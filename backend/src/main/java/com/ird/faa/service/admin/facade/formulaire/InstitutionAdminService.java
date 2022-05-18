@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.Institution;
-import com.ird.faa.ws.rest.provided.vo.InstitutionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.InstitutionVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface InstitutionAdminService extends AbstractService<Institution,Long,InstitutionVo>{

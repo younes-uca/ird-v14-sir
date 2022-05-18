@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.TypeExpertiseEvaluation;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.TypeExpertiseEvaluationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TypeExpertiseEvaluationVo;
 
 public interface TypeExpertiseEvaluationAdminService extends AbstractService<TypeExpertiseEvaluation,Long,TypeExpertiseEvaluationVo>{
 

@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.NiveauFormationPostBac;
-import com.ird.faa.ws.rest.provided.vo.NiveauFormationPostBacVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NiveauFormationPostBacVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface NiveauFormationPostBacChercheurService extends AbstractService<NiveauFormationPostBac,Long,NiveauFormationPostBacVo>{

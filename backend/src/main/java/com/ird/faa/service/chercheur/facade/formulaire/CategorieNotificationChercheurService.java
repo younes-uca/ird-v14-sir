@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.CategorieNotification;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.CategorieNotificationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CategorieNotificationVo;
 
 public interface CategorieNotificationChercheurService extends AbstractService<CategorieNotification,Long,CategorieNotificationVo>{
 

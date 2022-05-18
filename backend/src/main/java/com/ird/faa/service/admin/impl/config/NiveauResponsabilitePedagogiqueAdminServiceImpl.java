@@ -11,7 +11,7 @@ import com.ird.faa.bean.config.NiveauResponsabilitePedagogique;
 import com.ird.faa.dao.config.NiveauResponsabilitePedagogiqueDao;
 import com.ird.faa.service.admin.facade.config.NiveauResponsabilitePedagogiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.NiveauResponsabilitePedagogiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.NiveauResponsabilitePedagogiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

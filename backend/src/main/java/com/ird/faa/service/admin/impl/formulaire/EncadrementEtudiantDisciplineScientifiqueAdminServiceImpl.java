@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.EncadrementEtudiantDiscipline
 import com.ird.faa.service.admin.facade.formulaire.EncadrementEtudiantAdminService;
 import com.ird.faa.service.admin.facade.formulaire.DisciplineScientifiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EncadrementEtudiantDisciplineScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EncadrementEtudiantDisciplineScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

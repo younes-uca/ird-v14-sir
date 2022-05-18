@@ -12,7 +12,7 @@ import com.ird.faa.dao.formulaire.PaysDao;
 import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ContinentAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.PaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.PaysVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

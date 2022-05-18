@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.CommissionScientifique;
 import com.ird.faa.dao.formulaire.CommissionScientifiqueDao;
 import com.ird.faa.service.chercheur.facade.formulaire.CommissionScientifiqueChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CommissionScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommissionScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.PublicCible;
 import com.ird.faa.dao.formulaire.PublicCibleDao;
 import com.ird.faa.service.chercheur.facade.formulaire.PublicCibleChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.PublicCibleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.PublicCibleVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.TypeParticipation;
 import com.ird.faa.dao.formulaire.TypeParticipationDao;
 import com.ird.faa.service.chercheur.facade.formulaire.TypeParticipationChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeParticipationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeParticipationVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

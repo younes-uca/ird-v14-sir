@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.config;
 
 import com.ird.faa.bean.config.TypePublique;
-import com.ird.faa.ws.rest.provided.vo.TypePubliqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.TypePubliqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TypePubliqueChercheurService extends AbstractService<TypePublique,Long,TypePubliqueVo>{

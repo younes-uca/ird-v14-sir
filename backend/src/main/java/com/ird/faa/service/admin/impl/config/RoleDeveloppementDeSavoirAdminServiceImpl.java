@@ -10,7 +10,7 @@ import com.ird.faa.bean.config.RoleDeveloppementDeSavoir;
 import com.ird.faa.dao.config.RoleDeveloppementDeSavoirDao;
 import com.ird.faa.service.admin.facade.config.RoleDeveloppementDeSavoirAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.RoleDeveloppementDeSavoirVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.RoleDeveloppementDeSavoirVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

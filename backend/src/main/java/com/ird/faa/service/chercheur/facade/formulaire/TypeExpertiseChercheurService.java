@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.TypeExpertise;
-import com.ird.faa.ws.rest.provided.vo.TypeExpertiseVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeExpertiseVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TypeExpertiseChercheurService extends AbstractService<TypeExpertise,Long,TypeExpertiseVo>{

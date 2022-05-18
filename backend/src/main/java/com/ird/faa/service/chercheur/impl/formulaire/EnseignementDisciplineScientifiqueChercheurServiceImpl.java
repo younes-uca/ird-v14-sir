@@ -15,7 +15,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EnseignementDisciplineSci
 import com.ird.faa.service.chercheur.facade.formulaire.EnseignementChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.DisciplineScientifiqueChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementDisciplineScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementDisciplineScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

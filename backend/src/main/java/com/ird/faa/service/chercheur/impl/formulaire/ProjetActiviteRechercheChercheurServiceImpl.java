@@ -20,7 +20,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.ProjetActiviteRechercheDe
 import com.ird.faa.service.chercheur.facade.formulaire.CampagneChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ProjetActiviteRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ProjetActiviteRechercheVo;
 import com.ird.faa.service.util.*;
 import com.ird.faa.bean.formulaire.ProjetActiviteRechercheDetail;
 

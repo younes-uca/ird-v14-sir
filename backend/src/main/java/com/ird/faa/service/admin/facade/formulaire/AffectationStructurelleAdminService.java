@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.AffectationStructurelle;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.AffectationStructurelleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.AffectationStructurelleVo;
 
 public interface AffectationStructurelleAdminService extends AbstractService<AffectationStructurelle,Long,AffectationStructurelleVo>{
 

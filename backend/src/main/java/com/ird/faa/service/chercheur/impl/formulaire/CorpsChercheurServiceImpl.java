@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.Corps;
 import com.ird.faa.dao.formulaire.CorpsDao;
 import com.ird.faa.service.chercheur.facade.formulaire.CorpsChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CorpsVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.CorpsVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

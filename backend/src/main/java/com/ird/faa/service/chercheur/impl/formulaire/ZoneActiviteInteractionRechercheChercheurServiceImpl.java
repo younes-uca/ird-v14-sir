@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.ZoneActiviteInteractionRe
         import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ZoneActiviteInteractionRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ZoneActiviteInteractionRechercheVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

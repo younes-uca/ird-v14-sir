@@ -3,7 +3,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 import java.util.List;
 import com.ird.faa.bean.referentiel.ModeDiffusion;
 import com.ird.faa.bean.referentiel.TypeSavoir;
-import com.ird.faa.ws.rest.provided.vo.ModeDiffusionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ModeDiffusionVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ModeDiffusionChercheurService extends AbstractService<ModeDiffusion,Long,ModeDiffusionVo>{

@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.PaysCultureScientifiqueRecontreGrandPublicJeunePublic;
-import com.ird.faa.ws.rest.provided.vo.PaysCultureScientifiqueRecontreGrandPublicJeunePublicVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysCultureScientifiqueRecontreGrandPublicJeunePublicVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PaysCultureScientifiqueRecontreGrandPublicJeunePublicAdminService extends AbstractService<PaysCultureScientifiqueRecontreGrandPublicJeunePublic,Long,PaysCultureScientifiqueRecontreGrandPublicJeunePublicVo>{

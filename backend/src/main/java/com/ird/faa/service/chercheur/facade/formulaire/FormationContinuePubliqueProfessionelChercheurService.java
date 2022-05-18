@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.FormationContinuePubliqueProfessionel;
-import com.ird.faa.ws.rest.provided.vo.FormationContinuePubliqueProfessionelVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormationContinuePubliqueProfessionelVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface FormationContinuePubliqueProfessionelChercheurService extends AbstractService<FormationContinuePubliqueProfessionel,Long,FormationContinuePubliqueProfessionelVo>{

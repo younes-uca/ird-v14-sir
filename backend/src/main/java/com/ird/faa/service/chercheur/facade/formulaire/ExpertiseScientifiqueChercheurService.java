@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ExpertiseScientifique;
-import com.ird.faa.ws.rest.provided.vo.ExpertiseScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ExpertiseScientifiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ExpertiseScientifiqueChercheurService extends AbstractService<ExpertiseScientifique,Long,ExpertiseScientifiqueVo>{

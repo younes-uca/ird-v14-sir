@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.EnjeuxIrd;
 import com.ird.faa.dao.formulaire.EnjeuxIrdDao;
 import com.ird.faa.service.admin.facade.formulaire.EnjeuxIrdAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.EnjeuxIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.DeveloppementDeSavoirEtInnovationScientifiquePays;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.DeveloppementDeSavoirEtInnovationScientifiquePaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DeveloppementDeSavoirEtInnovationScientifiquePaysVo;
 
 public interface DeveloppementDeSavoirEtInnovationScientifiquePaysChercheurService extends
 		AbstractService<DeveloppementDeSavoirEtInnovationScientifiquePays, Long, DeveloppementDeSavoirEtInnovationScientifiquePaysVo> {

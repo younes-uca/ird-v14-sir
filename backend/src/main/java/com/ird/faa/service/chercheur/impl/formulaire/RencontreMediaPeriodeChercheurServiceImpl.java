@@ -17,7 +17,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.RencontreMediaPeriodeCher
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.RencontreMediaPeriodeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.RencontreMediaPeriodeVo;
 
 @Service
 public class RencontreMediaPeriodeChercheurServiceImpl extends AbstractServiceImpl<RencontreMediaPeriode>

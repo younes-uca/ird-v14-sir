@@ -17,7 +17,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.OutilPedagogiquePeriodeCh
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.OutilPedagogiquePeriodeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.OutilPedagogiquePeriodeVo;
 
 @Service
 public class OutilPedagogiquePeriodeChercheurServiceImpl extends AbstractServiceImpl<OutilPedagogiquePeriode>

@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.CommunauteSavoirEvaluatio
         import com.ird.faa.service.chercheur.facade.formulaire.EvaluationRechercheUniversitaireChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.CommunauteSavoirChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirEvaluationRechercheUniversitaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirEvaluationRechercheUniversitaireVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

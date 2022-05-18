@@ -20,7 +20,7 @@ import com.ird.faa.service.admin.facade.formulaire.CultureScientifiqueOutilPedag
         import com.ird.faa.service.admin.facade.formulaire.PublicCibleCultureScientifiqueOutilPedagogiqueAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.CultureScientifiqueOutilPedagogiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CultureScientifiqueOutilPedagogiqueVo;
 import com.ird.faa.service.util.*;
         import com.ird.faa.bean.formulaire.PublicCibleCultureScientifiqueOutilPedagogique;
 import com.ird.faa.bean.formulaire.TypeOutilCultureScientifiqueOutilPedagogique;

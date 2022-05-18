@@ -16,7 +16,7 @@ import com.ird.faa.service.admin.facade.formulaire.DistinctionAdminService;
 import com.ird.faa.service.admin.facade.formulaire.EtablissementAdminService;
 import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.DistinctionEtablissementPaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DistinctionEtablissementPaysVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

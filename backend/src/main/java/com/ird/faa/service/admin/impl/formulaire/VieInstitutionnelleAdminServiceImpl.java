@@ -17,7 +17,7 @@ import com.ird.faa.service.admin.facade.formulaire.VieInstitutionnelleDetailAdmi
 import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
 import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.VieInstitutionnelleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.VieInstitutionnelleVo;
 import com.ird.faa.service.util.*;
 import com.ird.faa.bean.formulaire.VieInstitutionnelleDetail;
 

@@ -22,11 +22,11 @@ import com.ird.faa.service.admin.facade.formulaire.GraphqlService;
 import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.ContractImportService;
 import com.ird.faa.service.chercheur.facade.formulaire.ContratEtConventionIrdChercheurService;
-import com.ird.faa.ws.rest.provided.converter.ContractDtoToVoConverter;
-import com.ird.faa.ws.rest.provided.converter.ContratEtConventionIrdConverter;
+import main.java.com.ird.faa.ws.rest.provided.converter.formulaire.ContractDtoToVoConverter;
+import main.java.com.ird.faa.ws.rest.provided.converter.formulaire.ContratEtConventionIrdConverter;
 import com.ird.faa.ws.rest.provided.dto.ContractDto;
 import com.ird.faa.ws.rest.provided.dto.ContractsDto;
-import com.ird.faa.ws.rest.provided.vo.ContratEtConventionIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ContratEtConventionIrdVo;
 
 @Service
 public class ContractImportServiceImpl implements ContractImportService {

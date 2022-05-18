@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ZoneGeographiqueFormationContinue;
-import com.ird.faa.ws.rest.provided.vo.ZoneGeographiqueFormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ZoneGeographiqueFormationContinueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ZoneGeographiqueFormationContinueChercheurService extends AbstractService<ZoneGeographiqueFormationContinue,Long,ZoneGeographiqueFormationContinueVo>{

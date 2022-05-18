@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.RoleProjet;
 import com.ird.faa.dao.formulaire.RoleProjetDao;
 import com.ird.faa.service.chercheur.facade.formulaire.RoleProjetChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.RoleProjetVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.RoleProjetVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

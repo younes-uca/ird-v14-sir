@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.ProjetActiviteRechercheDe
 import com.ird.faa.service.chercheur.facade.formulaire.ProjetActiviteRechercheDetailChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.EtablissementChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ProjetActiviteRechercheDetailInstitutionCoContractantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ProjetActiviteRechercheDetailInstitutionCoContractantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

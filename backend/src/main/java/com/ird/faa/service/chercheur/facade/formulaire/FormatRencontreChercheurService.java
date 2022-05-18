@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.FormatRencontre;
-import com.ird.faa.ws.rest.provided.vo.FormatRencontreVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormatRencontreVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface FormatRencontreChercheurService extends AbstractService<FormatRencontre,Long,FormatRencontreVo>{

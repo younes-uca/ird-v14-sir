@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ContexteCultureScientifiqueRecontreGrandPublicJeunePublic;
-import com.ird.faa.ws.rest.provided.vo.ContexteCultureScientifiqueRecontreGrandPublicJeunePublicVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ContexteCultureScientifiqueRecontreGrandPublicJeunePublicVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ContexteCultureScientifiqueRecontreGrandPublicJeunePublicChercheurService extends AbstractService<ContexteCultureScientifiqueRecontreGrandPublicJeunePublic,Long,ContexteCultureScientifiqueRecontreGrandPublicJeunePublicVo>{

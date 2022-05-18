@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.PaysTypeOutilCultureScientifi
         import com.ird.faa.service.admin.facade.formulaire.CultureScientifiqueOutilPedagogiqueAdminService;
         import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.PaysTypeOutilCultureScientifiqueOutilPedagogiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysTypeOutilCultureScientifiqueOutilPedagogiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

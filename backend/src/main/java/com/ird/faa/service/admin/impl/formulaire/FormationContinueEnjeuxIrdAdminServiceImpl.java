@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.FormationContinueEnjeuxIrdAdm
 import com.ird.faa.service.admin.facade.formulaire.FormationContinueAdminService;
 import com.ird.faa.service.admin.facade.formulaire.EnjeuxIrdAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.FormationContinueEnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormationContinueEnjeuxIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

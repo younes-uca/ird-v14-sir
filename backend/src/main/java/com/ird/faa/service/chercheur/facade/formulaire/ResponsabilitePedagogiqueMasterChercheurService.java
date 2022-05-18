@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ResponsabilitePedagogiqueMaster;
-import com.ird.faa.ws.rest.provided.vo.ResponsabilitePedagogiqueMasterVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabilitePedagogiqueMasterVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ResponsabilitePedagogiqueMasterChercheurService extends AbstractService<ResponsabilitePedagogiqueMaster,Long,ResponsabilitePedagogiqueMasterVo>{

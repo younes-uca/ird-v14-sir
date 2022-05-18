@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.referentiel.Ville;
-import com.ird.faa.ws.rest.provided.vo.VilleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.VilleVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface VilleAdminService extends AbstractService<Ville,Long,VilleVo>{

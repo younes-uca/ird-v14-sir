@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.InstrumentsEtDispositifsIrdProjetActiviteRecherche;
-import com.ird.faa.ws.rest.provided.vo.InstrumentsEtDispositifsIrdProjetActiviteRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.InstrumentsEtDispositifsIrdProjetActiviteRechercheVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface InstrumentsEtDispositifsIrdProjetActiviteRechercheAdminService extends AbstractService<InstrumentsEtDispositifsIrdProjetActiviteRecherche,Long,InstrumentsEtDispositifsIrdProjetActiviteRechercheVo>{

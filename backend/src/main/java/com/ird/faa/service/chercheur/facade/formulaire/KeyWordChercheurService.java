@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.KeyWord;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.KeyWordVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.KeyWordVo;
 
 public interface KeyWordChercheurService extends AbstractService<KeyWord,Long,KeyWordVo>{
 

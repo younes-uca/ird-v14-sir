@@ -19,11 +19,11 @@ import com.ird.faa.bean.formulaire.Chercheur;
 import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 import com.ird.faa.service.admin.facade.formulaire.ChercheursImportService;
 import com.ird.faa.service.admin.facade.formulaire.GraphqlService;
-import com.ird.faa.ws.rest.provided.converter.ChercheurConverter;
-import com.ird.faa.ws.rest.provided.converter.ChercheurDtoToVoConverter;
+import main.java.com.ird.faa.ws.rest.provided.converter.formulaire.ChercheurConverter;
+import main.java.com.ird.faa.ws.rest.provided.converter.formulaire.ChercheurDtoToVoConverter;
 import com.ird.faa.ws.rest.provided.dto.PersonnePhysiqueDto;
 import com.ird.faa.ws.rest.provided.dto.PersonnesPhysiqueDto;
-import com.ird.faa.ws.rest.provided.vo.ChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ChercheurVo;
 
 @Service
 public class ChercheursImportServiceImpl implements ChercheursImportService{

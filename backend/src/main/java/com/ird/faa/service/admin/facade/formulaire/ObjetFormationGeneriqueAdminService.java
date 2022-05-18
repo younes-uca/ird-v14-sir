@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.ObjetFormationGenerique;
-import com.ird.faa.ws.rest.provided.vo.ObjetFormationGeneriqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ObjetFormationGeneriqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ObjetFormationGeneriqueAdminService

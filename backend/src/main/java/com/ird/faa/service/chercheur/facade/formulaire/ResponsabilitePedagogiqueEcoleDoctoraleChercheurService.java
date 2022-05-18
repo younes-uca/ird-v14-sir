@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ResponsabilitePedagogiqueEcoleDoctorale;
-import com.ird.faa.ws.rest.provided.vo.ResponsabilitePedagogiqueEcoleDoctoraleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabilitePedagogiqueEcoleDoctoraleVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ResponsabilitePedagogiqueEcoleDoctoraleChercheurService extends AbstractService<ResponsabilitePedagogiqueEcoleDoctorale,Long,ResponsabilitePedagogiqueEcoleDoctoraleVo>{

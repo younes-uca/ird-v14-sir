@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.EnjeuxIrdConsultanceScientifiquePonctuelle;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.EnjeuxIrdConsultanceScientifiquePonctuelleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnjeuxIrdConsultanceScientifiquePonctuelleVo;
 
 import java.util.List;
 

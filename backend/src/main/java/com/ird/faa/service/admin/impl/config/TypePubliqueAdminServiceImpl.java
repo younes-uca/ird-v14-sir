@@ -10,7 +10,7 @@ import com.ird.faa.bean.config.TypePublique;
 import com.ird.faa.dao.config.TypePubliqueDao;
 import com.ird.faa.service.admin.facade.config.TypePubliqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TypePubliqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.TypePubliqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EtablissementEncadrementE
 import com.ird.faa.service.chercheur.facade.formulaire.EtablissementChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.EncadrementEtudiantChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EtablissementEncadrementEtudiantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EtablissementEncadrementEtudiantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

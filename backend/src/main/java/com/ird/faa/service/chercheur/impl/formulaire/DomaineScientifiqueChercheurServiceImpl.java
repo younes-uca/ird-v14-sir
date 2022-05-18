@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.DomaineScientifique;
 import com.ird.faa.dao.formulaire.DomaineScientifiqueDao;
 import com.ird.faa.service.chercheur.facade.formulaire.DomaineScientifiqueChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.DomaineScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DomaineScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

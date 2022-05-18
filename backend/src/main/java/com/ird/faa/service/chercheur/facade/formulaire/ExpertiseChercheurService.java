@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.Expertise;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.ExpertiseVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ExpertiseVo;
 
 import java.util.List;
 

@@ -19,7 +19,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.TypeOutilPedagogiqueCherc
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.TypeOutilPedagogiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeOutilPedagogiqueVo;
 
 @Service
 public class TypeOutilPedagogiqueChercheurServiceImpl extends AbstractServiceImpl<TypeOutilPedagogique>

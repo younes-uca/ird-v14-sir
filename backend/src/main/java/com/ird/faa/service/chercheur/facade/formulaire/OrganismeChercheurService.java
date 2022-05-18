@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.Organisme;
-import com.ird.faa.ws.rest.provided.vo.OrganismeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.OrganismeVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface OrganismeChercheurService extends AbstractService<Organisme,Long,OrganismeVo>{

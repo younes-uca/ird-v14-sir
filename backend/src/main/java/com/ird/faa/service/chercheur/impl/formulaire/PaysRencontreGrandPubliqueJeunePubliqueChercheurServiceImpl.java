@@ -19,7 +19,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.RencontreGrandPubliqueJeu
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.PaysRencontreGrandPubliqueJeunePubliqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysRencontreGrandPubliqueJeunePubliqueVo;
 
 @Service
 public class PaysRencontreGrandPubliqueJeunePubliqueChercheurServiceImpl

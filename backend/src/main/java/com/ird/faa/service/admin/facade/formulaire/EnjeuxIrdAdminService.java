@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.EnjeuxIrd;
-import com.ird.faa.ws.rest.provided.vo.EnjeuxIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.EnjeuxIrdVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EnjeuxIrdAdminService extends AbstractService<EnjeuxIrd,Long,EnjeuxIrdVo>{

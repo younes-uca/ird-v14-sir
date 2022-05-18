@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.referentiel.VieInstitutionnelle;
-import com.ird.faa.ws.rest.provided.vo.VieInstitutionnelleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.VieInstitutionnelleVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface VieInstitutionnelleChercheurService extends AbstractService<VieInstitutionnelle,Long,VieInstitutionnelleVo>{

@@ -19,7 +19,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.RencontreMediaDisciplineS
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.RencontreMediaDisciplineScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.RencontreMediaDisciplineScientifiqueVo;
 
 @Service
 public class RencontreMediaDisciplineScientifiqueChercheurServiceImpl

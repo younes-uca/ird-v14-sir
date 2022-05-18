@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.PaysTypeOutilCultureScientifiqueOutilPedagogique;
-import com.ird.faa.ws.rest.provided.vo.PaysTypeOutilCultureScientifiqueOutilPedagogiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysTypeOutilCultureScientifiqueOutilPedagogiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PaysTypeOutilCultureScientifiqueOutilPedagogiqueChercheurService extends AbstractService<PaysTypeOutilCultureScientifiqueOutilPedagogique,Long,PaysTypeOutilCultureScientifiqueOutilPedagogiqueVo>{

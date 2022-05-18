@@ -17,7 +17,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EtablissementChercheurSer
 import com.ird.faa.service.chercheur.facade.formulaire.ResponsabilitePedagogiqueChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ResponsabilitePedagogiqueEtablissementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabilitePedagogiqueEtablissementVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.EnseignementPaysAdminService;
 import com.ird.faa.service.admin.facade.formulaire.EnseignementAdminService;
 import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementPaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementPaysVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

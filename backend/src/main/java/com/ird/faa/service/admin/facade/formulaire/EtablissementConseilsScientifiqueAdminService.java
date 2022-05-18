@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.EtablissementConseilsScientifique;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.EtablissementConseilsScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EtablissementConseilsScientifiqueVo;
 
 import java.util.List;
 

@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.CommunauteSavoirConseilEtComiteScientifique;
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirConseilEtComiteScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirConseilEtComiteScientifiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface CommunauteSavoirConseilEtComiteScientifiqueAdminService extends AbstractService<CommunauteSavoirConseilEtComiteScientifique,Long,CommunauteSavoirConseilEtComiteScientifiqueVo>{

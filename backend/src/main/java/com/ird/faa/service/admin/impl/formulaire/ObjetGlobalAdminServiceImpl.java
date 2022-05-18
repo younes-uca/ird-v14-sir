@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.ObjetGlobal;
 import com.ird.faa.dao.formulaire.ObjetGlobalDao;
 import com.ird.faa.service.admin.facade.formulaire.ObjetGlobalAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ObjetGlobalVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ObjetGlobalVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

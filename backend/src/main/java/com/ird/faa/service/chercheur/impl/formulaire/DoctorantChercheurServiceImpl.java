@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.DoctorantChercheurService
         import com.ird.faa.service.chercheur.facade.formulaire.SexeChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.DoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DoctorantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

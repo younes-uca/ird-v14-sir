@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.CaracterisationDeveloppementD
         import com.ird.faa.service.admin.facade.formulaire.CaracterisationAdminService;
         import com.ird.faa.service.admin.facade.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.CaracterisationDeveloppementDeSavoirEtInnovationScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CaracterisationDeveloppementDeSavoirEtInnovationScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

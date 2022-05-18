@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.PaysEncadrementDoctorantC
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.EncadrementDoctorantChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.PaysEncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysEncadrementDoctorantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

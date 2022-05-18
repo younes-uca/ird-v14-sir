@@ -12,7 +12,7 @@ import com.ird.faa.dao.formulaire.InstrumentIrdDao;
 import com.ird.faa.service.admin.facade.formulaire.InstrumentIrdAdminService;
 import com.ird.faa.service.admin.facade.formulaire.TypeInstrumentIrdAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.InstrumentIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.InstrumentIrdVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

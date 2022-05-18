@@ -16,7 +16,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.DistinctionChercheurServi
 import com.ird.faa.service.chercheur.facade.formulaire.EtablissementChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.DistinctionEtablissementPaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DistinctionEtablissementPaysVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

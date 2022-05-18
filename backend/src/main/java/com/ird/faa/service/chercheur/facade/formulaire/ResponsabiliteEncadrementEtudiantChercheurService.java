@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.ResponsabiliteEncadrementEtudiant;
-import com.ird.faa.ws.rest.provided.vo.ResponsabiliteEncadrementEtudiantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabiliteEncadrementEtudiantVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ResponsabiliteEncadrementEtudiantChercheurService extends AbstractService<ResponsabiliteEncadrementEtudiant,Long,ResponsabiliteEncadrementEtudiantVo>{

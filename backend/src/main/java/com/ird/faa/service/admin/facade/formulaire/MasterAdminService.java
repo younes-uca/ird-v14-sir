@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.referentiel.Master;
-import com.ird.faa.ws.rest.provided.vo.MasterVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.MasterVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface MasterAdminService extends AbstractService<Master,Long,MasterVo>{

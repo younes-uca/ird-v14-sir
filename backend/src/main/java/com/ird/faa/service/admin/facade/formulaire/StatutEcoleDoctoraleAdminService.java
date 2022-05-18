@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.StatutEcoleDoctorale;
-import com.ird.faa.ws.rest.provided.vo.StatutEcoleDoctoraleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.StatutEcoleDoctoraleVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface StatutEcoleDoctoraleAdminService extends AbstractService<StatutEcoleDoctorale,Long,StatutEcoleDoctoraleVo>{

@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.MasterInternational;
 import com.ird.faa.dao.formulaire.MasterInternationalDao;
 import com.ird.faa.service.admin.facade.formulaire.MasterInternationalAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.MasterInternationalVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.MasterInternationalVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

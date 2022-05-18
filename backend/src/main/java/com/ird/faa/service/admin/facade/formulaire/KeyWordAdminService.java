@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.KeyWord;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.KeyWordVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.KeyWordVo;
 
 public interface KeyWordAdminService extends AbstractService<KeyWord,Long,KeyWordVo>{
 

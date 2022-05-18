@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.TypeUtilisateurSavoirConcuAdm
 import com.ird.faa.service.admin.facade.formulaire.TypeUtilisateurAdminService;
 import com.ird.faa.service.admin.facade.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeUtilisateurSavoirConcuVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeUtilisateurSavoirConcuVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

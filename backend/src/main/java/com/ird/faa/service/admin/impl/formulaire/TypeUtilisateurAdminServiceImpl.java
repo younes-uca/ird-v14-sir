@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.TypeUtilisateur;
 import com.ird.faa.dao.formulaire.TypeUtilisateurDao;
 import com.ird.faa.service.admin.facade.formulaire.TypeUtilisateurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeUtilisateurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TypeUtilisateurVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

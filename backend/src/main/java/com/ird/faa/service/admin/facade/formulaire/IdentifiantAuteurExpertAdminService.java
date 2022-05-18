@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.IdentifiantAuteurExpert;
-import com.ird.faa.ws.rest.provided.vo.IdentifiantAuteurExpertVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.IdentifiantAuteurExpertVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface IdentifiantAuteurExpertAdminService extends AbstractService<IdentifiantAuteurExpert,Long,IdentifiantAuteurExpertVo>{

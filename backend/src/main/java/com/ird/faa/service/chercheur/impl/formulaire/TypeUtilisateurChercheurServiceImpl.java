@@ -13,7 +13,7 @@ import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
 import com.ird.faa.service.util.StringUtil;
-import com.ird.faa.ws.rest.provided.vo.TypeUtilisateurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TypeUtilisateurVo;
 
 @Service
 public class TypeUtilisateurChercheurServiceImpl extends AbstractServiceImpl<TypeUtilisateur>

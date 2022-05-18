@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.InstitutionCoContractant;
-import com.ird.faa.ws.rest.provided.vo.InstitutionCoContractantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.InstitutionCoContractantVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface InstitutionCoContractantChercheurService extends AbstractService<InstitutionCoContractant,Long,InstitutionCoContractantVo>{

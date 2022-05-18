@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.CampagneChercheurFermetureAdm
         import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
         import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.CampagneChercheurFermetureVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CampagneChercheurFermetureVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

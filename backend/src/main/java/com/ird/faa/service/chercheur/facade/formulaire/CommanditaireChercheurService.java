@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.Commanditaire;
-import com.ird.faa.ws.rest.provided.vo.CommanditaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommanditaireVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface CommanditaireChercheurService extends AbstractService<Commanditaire,Long,CommanditaireVo>{

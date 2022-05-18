@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.ContexteCultureScientifiqueRe
         import com.ird.faa.service.admin.facade.formulaire.ContexteAdminService;
         import com.ird.faa.service.admin.facade.formulaire.CultureScientifiqueRecontreGrandPublicJeunePublicAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ContexteCultureScientifiqueRecontreGrandPublicJeunePublicVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ContexteCultureScientifiqueRecontreGrandPublicJeunePublicVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

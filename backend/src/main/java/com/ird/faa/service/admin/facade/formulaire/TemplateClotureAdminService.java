@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.TemplateCloture;
-import com.ird.faa.ws.rest.provided.vo.TemplateClotureVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TemplateClotureVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TemplateClotureAdminService extends AbstractService<TemplateCloture,Long,TemplateClotureVo>{

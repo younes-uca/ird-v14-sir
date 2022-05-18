@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.RoleComiteEtCommissionEvaluation;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.RoleComiteEtCommissionEvaluationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.RoleComiteEtCommissionEvaluationVo;
 
 import java.util.List;
 

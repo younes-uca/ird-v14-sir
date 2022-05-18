@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.InstitutionCoContractantC
         import com.ird.faa.service.chercheur.facade.formulaire.InstitutionChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.InstitutionCoContractantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.InstitutionCoContractantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

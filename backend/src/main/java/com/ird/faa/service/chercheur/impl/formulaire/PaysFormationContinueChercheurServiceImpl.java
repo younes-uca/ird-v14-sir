@@ -15,7 +15,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.PaysFormationContinueCher
 import com.ird.faa.service.chercheur.facade.formulaire.FormationContinueChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.PaysFormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysFormationContinueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

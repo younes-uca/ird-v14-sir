@@ -25,7 +25,7 @@ import com.ird.faa.service.admin.facade.formulaire.ResponsabilitePedagogiqueEtab
 import com.ird.faa.service.admin.facade.formulaire.ResponsabilitePedagogiqueEnjeuxIrdAdminService;
 import com.ird.faa.service.admin.facade.formulaire.ResponsabilitePedagogiquePaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ResponsabilitePedagogiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ResponsabilitePedagogiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

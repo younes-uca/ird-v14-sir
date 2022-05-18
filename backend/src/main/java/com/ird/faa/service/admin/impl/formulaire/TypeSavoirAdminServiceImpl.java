@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.TypeSavoir;
 import com.ird.faa.dao.formulaire.TypeSavoirDao;
 import com.ird.faa.service.admin.facade.formulaire.TypeSavoirAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeSavoirVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TypeSavoirVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

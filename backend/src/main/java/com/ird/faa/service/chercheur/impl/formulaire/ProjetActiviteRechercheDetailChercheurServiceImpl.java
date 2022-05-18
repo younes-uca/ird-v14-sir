@@ -24,7 +24,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.ProjetActiviteRechercheDe
 import com.ird.faa.service.chercheur.facade.formulaire.ProjetActiviteRechercheDetailEtablissementFinanceurChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.ProjetActiviteRechercheDetailInstrumentIrdChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ProjetActiviteRechercheDetailVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ProjetActiviteRechercheDetailVo;
 import com.ird.faa.service.util.*;
 import com.ird.faa.bean.formulaire.ProjetActiviteRechercheDetailEnjeuxIrd;
 import com.ird.faa.bean.formulaire.ProjetActiviteRechercheDetailEtablissementFinanceur;

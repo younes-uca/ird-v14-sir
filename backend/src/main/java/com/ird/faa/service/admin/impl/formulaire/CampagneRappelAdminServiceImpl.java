@@ -21,7 +21,7 @@ import com.ird.faa.service.admin.facade.formulaire.CampagneRappelChercheurAdminS
 import com.ird.faa.service.admin.facade.formulaire.TemplateRappelAdminService;
 import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
 import com.ird.faa.service.admin.facade.formulaire.CampagneChercheurOuvertureAdminService;
-import com.ird.faa.ws.rest.provided.vo.CampagneRappelVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CampagneRappelVo;
 import com.ird.faa.service.util.*;
 import com.ird.faa.bean.formulaire.CampagneRappelChercheur;
 

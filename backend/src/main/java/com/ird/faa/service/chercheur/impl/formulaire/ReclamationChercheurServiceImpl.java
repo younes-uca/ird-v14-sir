@@ -16,7 +16,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.ReclamationChercheurServi
         import com.ird.faa.service.chercheur.facade.config.EtatReclamationChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ReclamationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ReclamationVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

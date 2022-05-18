@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.EvaluationEncadrement;
-import com.ird.faa.ws.rest.provided.vo.EvaluationEncadrementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EvaluationEncadrementVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EvaluationEncadrementAdminService extends AbstractService<EvaluationEncadrement,Long,EvaluationEncadrementVo>{

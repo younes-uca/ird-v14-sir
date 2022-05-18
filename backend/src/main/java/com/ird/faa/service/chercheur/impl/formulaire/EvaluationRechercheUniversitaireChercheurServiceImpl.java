@@ -26,7 +26,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EvaluationRechercheUniver
         import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EvaluationRechercheUniversitaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EvaluationRechercheUniversitaireVo;
 import com.ird.faa.service.util.*;
         import com.ird.faa.bean.formulaire.CommunauteSavoirEvaluationRechercheUniversitaire;
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueEvaluationRechercheUniversitaire;

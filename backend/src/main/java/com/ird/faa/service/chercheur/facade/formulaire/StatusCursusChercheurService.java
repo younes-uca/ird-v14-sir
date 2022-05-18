@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.StatusCursus;
-import com.ird.faa.ws.rest.provided.vo.StatusCursusVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.StatusCursusVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface StatusCursusChercheurService extends AbstractService<StatusCursus,Long,StatusCursusVo>{

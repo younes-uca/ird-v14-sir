@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.EncadrementEtudiant;
-import com.ird.faa.ws.rest.provided.vo.EncadrementEtudiantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EncadrementEtudiantVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EncadrementEtudiantAdminService extends AbstractService<EncadrementEtudiant,Long,EncadrementEtudiantVo>{

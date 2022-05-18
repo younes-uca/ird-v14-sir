@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.TypeReclamation;
-import com.ird.faa.ws.rest.provided.vo.TypeReclamationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeReclamationVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TypeReclamationAdminService extends AbstractService<TypeReclamation,Long,TypeReclamationVo>{

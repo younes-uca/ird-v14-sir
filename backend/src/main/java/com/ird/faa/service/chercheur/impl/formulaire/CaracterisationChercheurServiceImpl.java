@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.Caracterisation;
 import com.ird.faa.dao.formulaire.CaracterisationDao;
 import com.ird.faa.service.chercheur.facade.formulaire.CaracterisationChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CaracterisationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CaracterisationVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

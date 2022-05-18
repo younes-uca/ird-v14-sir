@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.DisciplineScientifiqueExperti
         import com.ird.faa.service.admin.facade.formulaire.ExpertiseScientifiqueAdminService;
         import com.ird.faa.service.admin.facade.formulaire.DisciplineScientifiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.DisciplineScientifiqueExpertiseScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DisciplineScientifiqueExpertiseScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

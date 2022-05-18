@@ -26,7 +26,7 @@ import com.ird.faa.service.admin.facade.formulaire.ResponsabiliteEncadrementDoct
 import com.ird.faa.service.admin.facade.formulaire.EtablissementAdminService;
 import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EncadrementDoctorantVo;
 import com.ird.faa.service.util.*;
 import com.ird.faa.bean.formulaire.EnjeuxIrdEncadrementDoctorant;
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueEncadrementDoctorant;

@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.EnseignementDisciplineScienti
 import com.ird.faa.service.admin.facade.formulaire.EnseignementAdminService;
 import com.ird.faa.service.admin.facade.formulaire.DisciplineScientifiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementDisciplineScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementDisciplineScientifiqueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

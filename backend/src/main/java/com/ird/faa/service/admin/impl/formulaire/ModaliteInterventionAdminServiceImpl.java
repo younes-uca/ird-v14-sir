@@ -17,7 +17,7 @@ import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
 import com.ird.faa.service.util.StringUtil;
-import com.ird.faa.ws.rest.provided.vo.ModaliteInterventionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ModaliteInterventionVo;
 
 @Service
 public class ModaliteInterventionAdminServiceImpl extends AbstractServiceImpl<ModaliteIntervention>

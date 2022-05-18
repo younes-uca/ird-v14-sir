@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.Modalite;
-import com.ird.faa.ws.rest.provided.vo.ModaliteVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ModaliteVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ModaliteChercheurService extends AbstractService<Modalite,Long,ModaliteVo>{

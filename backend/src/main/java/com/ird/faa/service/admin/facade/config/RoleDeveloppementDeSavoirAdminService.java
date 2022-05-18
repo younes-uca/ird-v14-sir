@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.config;
 
 import com.ird.faa.bean.config.RoleDeveloppementDeSavoir;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.RoleDeveloppementDeSavoirVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.RoleDeveloppementDeSavoirVo;
 
 public interface RoleDeveloppementDeSavoirAdminService
 		extends AbstractService<RoleDeveloppementDeSavoir, Long, RoleDeveloppementDeSavoirVo> {

@@ -3,7 +3,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 import java.util.List;
 
 import com.ird.faa.bean.formulaire.Faq;
-import com.ird.faa.ws.rest.provided.vo.FaqVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FaqVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface FaqChercheurService extends AbstractService<Faq,Long,FaqVo>{

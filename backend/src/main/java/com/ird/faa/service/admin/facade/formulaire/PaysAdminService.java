@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.referentiel.Pays;
-import com.ird.faa.ws.rest.provided.vo.PaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.PaysVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PaysAdminService extends AbstractService<Pays,Long,PaysVo>{

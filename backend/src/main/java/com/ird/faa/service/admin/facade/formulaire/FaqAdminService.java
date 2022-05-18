@@ -3,7 +3,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 import com.ird.faa.bean.formulaire.CategorieFaq;
 import com.ird.faa.bean.formulaire.Faq;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.FaqVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FaqVo;
 
 import java.util.List;
 

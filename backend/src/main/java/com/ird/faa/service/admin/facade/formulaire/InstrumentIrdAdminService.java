@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.referentiel.InstrumentIrd;
-import com.ird.faa.ws.rest.provided.vo.InstrumentIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.InstrumentIrdVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface InstrumentIrdAdminService extends AbstractService<InstrumentIrd,Long,InstrumentIrdVo>{

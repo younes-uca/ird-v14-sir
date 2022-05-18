@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.NatureEtude;
-import com.ird.faa.ws.rest.provided.vo.NatureEtudeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NatureEtudeVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface NatureEtudeChercheurService extends AbstractService<NatureEtude,Long,NatureEtudeVo>{

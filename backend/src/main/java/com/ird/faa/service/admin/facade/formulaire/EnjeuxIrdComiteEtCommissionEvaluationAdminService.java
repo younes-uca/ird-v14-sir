@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.EnjeuxIrdComiteEtCommissionEvaluation;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.EnjeuxIrdComiteEtCommissionEvaluationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnjeuxIrdComiteEtCommissionEvaluationVo;
 
 import java.util.List;
 

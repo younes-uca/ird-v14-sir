@@ -12,7 +12,7 @@ import com.ird.faa.dao.formulaire.FournisseurAppelProjetRechercheDao;
 import com.ird.faa.service.admin.facade.formulaire.FournisseurAppelProjetRechercheAdminService;
         import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.FournisseurAppelProjetRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FournisseurAppelProjetRechercheVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

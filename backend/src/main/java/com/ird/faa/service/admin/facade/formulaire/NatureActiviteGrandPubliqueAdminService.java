@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.NatureActiviteGrandPublique;
-import com.ird.faa.ws.rest.provided.vo.NatureActiviteGrandPubliqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NatureActiviteGrandPubliqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface NatureActiviteGrandPubliqueAdminService extends AbstractService<NatureActiviteGrandPublique,Long,NatureActiviteGrandPubliqueVo>{

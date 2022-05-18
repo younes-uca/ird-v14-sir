@@ -12,7 +12,7 @@ import com.ird.faa.dao.formulaire.EcoleDoctoraleDao;
 import com.ird.faa.service.admin.facade.formulaire.EcoleDoctoraleAdminService;
         import com.ird.faa.service.admin.facade.formulaire.PaysAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EcoleDoctoraleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EcoleDoctoraleVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

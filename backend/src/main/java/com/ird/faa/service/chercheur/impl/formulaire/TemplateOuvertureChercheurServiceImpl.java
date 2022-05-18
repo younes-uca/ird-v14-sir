@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.TemplateOuverture;
 import com.ird.faa.dao.formulaire.TemplateOuvertureDao;
 import com.ird.faa.service.chercheur.facade.formulaire.TemplateOuvertureChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.TemplateOuvertureVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TemplateOuvertureVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

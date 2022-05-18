@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.TypeEtude;
-import com.ird.faa.ws.rest.provided.vo.TypeEtudeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeEtudeVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TypeEtudeAdminService extends AbstractService<TypeEtude, Long, TypeEtudeVo> {

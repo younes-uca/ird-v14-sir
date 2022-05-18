@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.EtablissementPartenaire;
-import com.ird.faa.ws.rest.provided.vo.EtablissementPartenaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EtablissementPartenaireVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EtablissementPartenaireAdminService extends AbstractService<EtablissementPartenaire,Long,EtablissementPartenaireVo>{

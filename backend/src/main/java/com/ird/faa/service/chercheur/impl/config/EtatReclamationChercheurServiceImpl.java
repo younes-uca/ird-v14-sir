@@ -10,7 +10,7 @@ import com.ird.faa.bean.config.EtatReclamation;
 import com.ird.faa.dao.config.EtatReclamationDao;
 import com.ird.faa.service.chercheur.facade.config.EtatReclamationChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EtatReclamationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.EtatReclamationVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

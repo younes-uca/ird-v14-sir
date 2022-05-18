@@ -14,7 +14,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.ProjetActiviteRechercheDe
 import com.ird.faa.service.chercheur.facade.formulaire.ProjetActiviteRechercheDetailChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ProjetActiviteRechercheDetailPaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ProjetActiviteRechercheDetailPaysVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

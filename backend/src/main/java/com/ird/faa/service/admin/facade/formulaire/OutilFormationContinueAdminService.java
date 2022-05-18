@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.OutilFormationContinue;
-import com.ird.faa.ws.rest.provided.vo.OutilFormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.OutilFormationContinueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface OutilFormationContinueAdminService extends AbstractService<OutilFormationContinue,Long,OutilFormationContinueVo>{

@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.ResponsabilitePedagogiquePays;
-import com.ird.faa.ws.rest.provided.vo.ResponsabilitePedagogiquePaysVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabilitePedagogiquePaysVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ResponsabilitePedagogiquePaysChercheurService

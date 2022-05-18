@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.FormatRencontre;
 import com.ird.faa.dao.formulaire.FormatRencontreDao;
 import com.ird.faa.service.chercheur.facade.formulaire.FormatRencontreChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.FormatRencontreVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormatRencontreVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

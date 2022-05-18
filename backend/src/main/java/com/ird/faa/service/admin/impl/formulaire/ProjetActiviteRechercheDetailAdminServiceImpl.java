@@ -33,7 +33,7 @@ import com.ird.faa.service.admin.facade.formulaire.StatusProjetAdminService;
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.ProjetActiviteRechercheDetailVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ProjetActiviteRechercheDetailVo;
 
 @Service
 public class ProjetActiviteRechercheDetailAdminServiceImpl extends AbstractServiceImpl<ProjetActiviteRechercheDetail> implements ProjetActiviteRechercheDetailAdminService {

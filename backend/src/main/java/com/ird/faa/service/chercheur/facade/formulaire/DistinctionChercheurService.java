@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.Distinction;
-import com.ird.faa.ws.rest.provided.vo.DistinctionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DistinctionVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface DistinctionChercheurService extends AbstractService<Distinction, Long, DistinctionVo> {

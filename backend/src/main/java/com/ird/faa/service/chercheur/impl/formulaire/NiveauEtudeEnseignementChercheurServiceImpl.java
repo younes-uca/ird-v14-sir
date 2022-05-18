@@ -15,7 +15,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.NiveauEtudeEnseignementCh
 import com.ird.faa.service.chercheur.facade.formulaire.EnseignementChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.NiveauEtudeChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.NiveauEtudeEnseignementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.NiveauEtudeEnseignementVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

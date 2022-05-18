@@ -34,7 +34,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.TypeEtudeEnseignementCher
 import com.ird.faa.service.chercheur.facade.formulaire.ModaliteEtudeChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.EnseignementZoneGeographiqueChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

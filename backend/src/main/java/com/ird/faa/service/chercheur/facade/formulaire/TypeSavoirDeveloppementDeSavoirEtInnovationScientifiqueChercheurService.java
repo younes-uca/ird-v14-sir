@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.TypeSavoirDeveloppementDeSavoirEtInnovationScientifique;
-import com.ird.faa.ws.rest.provided.vo.TypeSavoirDeveloppementDeSavoirEtInnovationScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TypeSavoirDeveloppementDeSavoirEtInnovationScientifiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TypeSavoirDeveloppementDeSavoirEtInnovationScientifiqueChercheurService extends AbstractService<TypeSavoirDeveloppementDeSavoirEtInnovationScientifique,Long,TypeSavoirDeveloppementDeSavoirEtInnovationScientifiqueVo>{

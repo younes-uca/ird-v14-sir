@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.TemplateRappel;
-import com.ird.faa.ws.rest.provided.vo.TemplateRappelVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TemplateRappelVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TemplateRappelChercheurService extends AbstractService<TemplateRappel,Long,TemplateRappelVo>{

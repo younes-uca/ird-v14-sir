@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.NiveauFormation;
-import com.ird.faa.ws.rest.provided.vo.NiveauFormationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NiveauFormationVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface NiveauFormationAdminService extends AbstractService<NiveauFormation,Long,NiveauFormationVo>{

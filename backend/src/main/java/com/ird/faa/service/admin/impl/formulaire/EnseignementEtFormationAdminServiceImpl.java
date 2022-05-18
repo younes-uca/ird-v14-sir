@@ -23,7 +23,7 @@ import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
 import com.ird.faa.service.admin.facade.formulaire.ResponsabilitePedagogiqueAdminService;
 import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementEtFormationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementEtFormationVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

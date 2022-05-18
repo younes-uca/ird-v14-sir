@@ -14,7 +14,7 @@ import com.ird.faa.service.admin.facade.formulaire.CommunauteSavoirProjetActivit
 import com.ird.faa.service.admin.facade.formulaire.ProjetActiviteRechercheAdminService;
 import com.ird.faa.service.admin.facade.formulaire.CommunauteSavoirAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirProjetActiviteRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CommunauteSavoirProjetActiviteRechercheVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

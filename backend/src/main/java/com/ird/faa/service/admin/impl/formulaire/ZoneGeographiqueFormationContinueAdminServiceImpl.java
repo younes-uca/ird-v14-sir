@@ -15,7 +15,7 @@ import com.ird.faa.service.admin.facade.formulaire.ZoneGeographiqueFormationCont
 import com.ird.faa.service.admin.facade.formulaire.FormationContinueAdminService;
 import com.ird.faa.service.admin.facade.formulaire.ZoneGeographiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ZoneGeographiqueFormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ZoneGeographiqueFormationContinueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

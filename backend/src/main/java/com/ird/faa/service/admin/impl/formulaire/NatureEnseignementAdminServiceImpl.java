@@ -12,7 +12,7 @@ import com.ird.faa.bean.referentiel.NatureEnseignement;
 import com.ird.faa.dao.formulaire.NatureEnseignementDao;
 import com.ird.faa.service.admin.facade.formulaire.NatureEnseignementAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.NatureEnseignementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NatureEnseignementVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.facade.ArchivableService;

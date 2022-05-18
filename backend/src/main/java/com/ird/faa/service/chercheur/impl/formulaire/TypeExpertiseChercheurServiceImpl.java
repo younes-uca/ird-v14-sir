@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.TypeExpertise;
 import com.ird.faa.dao.formulaire.TypeExpertiseDao;
 import com.ird.faa.service.chercheur.facade.formulaire.TypeExpertiseChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeExpertiseVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeExpertiseVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

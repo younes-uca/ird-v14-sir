@@ -11,7 +11,7 @@ import com.ird.faa.bean.formulaire.ResponsabiliteEncadrementDoctorant;
 import com.ird.faa.dao.formulaire.ResponsabiliteEncadrementDoctorantDao;
 import com.ird.faa.service.admin.facade.formulaire.ResponsabiliteEncadrementDoctorantAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ResponsabiliteEncadrementDoctorantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabiliteEncadrementDoctorantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.facade.ArchivableService;

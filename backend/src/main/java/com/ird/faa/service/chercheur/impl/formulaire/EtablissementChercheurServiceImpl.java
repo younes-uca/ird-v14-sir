@@ -19,7 +19,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.EtablissementChercheurSer
 import com.ird.faa.service.chercheur.facade.formulaire.VilleChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EtablissementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.EtablissementVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.facade.ArchivableService;

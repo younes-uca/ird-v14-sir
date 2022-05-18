@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.RencontreGrandPubliqueJeunePubliqueTypeInstrumentIrd;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.RencontreGrandPubliqueJeunePubliqueTypeInstrumentIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.RencontreGrandPubliqueJeunePubliqueTypeInstrumentIrdVo;
 
 public interface RencontreGrandPubliqueJeunePubliqueTypeInstrumentIrdChercheurService extends
 		AbstractService<RencontreGrandPubliqueJeunePubliqueTypeInstrumentIrd, Long, RencontreGrandPubliqueJeunePubliqueTypeInstrumentIrdVo> {

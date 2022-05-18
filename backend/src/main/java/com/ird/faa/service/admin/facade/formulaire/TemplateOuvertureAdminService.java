@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.TemplateOuverture;
-import com.ird.faa.ws.rest.provided.vo.TemplateOuvertureVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.TemplateOuvertureVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface TemplateOuvertureAdminService extends AbstractService<TemplateOuverture,Long,TemplateOuvertureVo>{

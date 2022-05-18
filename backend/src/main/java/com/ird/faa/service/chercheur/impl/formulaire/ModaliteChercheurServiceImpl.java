@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.Modalite;
 import com.ird.faa.dao.formulaire.ModaliteDao;
 import com.ird.faa.service.chercheur.facade.formulaire.ModaliteChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.ModaliteVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.ModaliteVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

@@ -10,7 +10,7 @@ import com.ird.faa.bean.formulaire.ResponsabiliteEncadrementEtudiant;
 import com.ird.faa.dao.formulaire.ResponsabiliteEncadrementEtudiantDao;
 import com.ird.faa.service.admin.facade.formulaire.ResponsabiliteEncadrementEtudiantAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.ResponsabiliteEncadrementEtudiantVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ResponsabiliteEncadrementEtudiantVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

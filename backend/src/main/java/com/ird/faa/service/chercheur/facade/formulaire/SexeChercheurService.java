@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.Sexe;
-import com.ird.faa.ws.rest.provided.vo.SexeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.SexeVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface SexeChercheurService extends AbstractService<Sexe,Long,SexeVo>{

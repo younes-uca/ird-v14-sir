@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.EnseignementNature;
-import com.ird.faa.ws.rest.provided.vo.EnseignementNatureVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementNatureVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EnseignementNatureChercheurService extends AbstractService<EnseignementNature,Long,EnseignementNatureVo>{

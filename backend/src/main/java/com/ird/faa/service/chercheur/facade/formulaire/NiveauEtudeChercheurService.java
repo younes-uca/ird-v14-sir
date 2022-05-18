@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.NiveauEtude;
-import com.ird.faa.ws.rest.provided.vo.NiveauEtudeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NiveauEtudeVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface NiveauEtudeChercheurService extends AbstractService<NiveauEtude,Long,NiveauEtudeVo>{

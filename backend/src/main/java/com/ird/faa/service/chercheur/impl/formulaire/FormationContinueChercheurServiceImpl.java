@@ -31,7 +31,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.FormationContinueCommandi
 import com.ird.faa.service.chercheur.facade.formulaire.FormationContinuePubliqueProfessionelChercheurService;
 import com.ird.faa.service.chercheur.facade.formulaire.PaysFormationContinueChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.FormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.FormationContinueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

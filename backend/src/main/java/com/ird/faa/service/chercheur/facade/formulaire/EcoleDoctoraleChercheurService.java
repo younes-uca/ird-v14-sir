@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.EcoleDoctorale;
-import com.ird.faa.ws.rest.provided.vo.EcoleDoctoraleVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EcoleDoctoraleVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EcoleDoctoraleChercheurService extends AbstractService<EcoleDoctorale,Long,EcoleDoctoraleVo>{

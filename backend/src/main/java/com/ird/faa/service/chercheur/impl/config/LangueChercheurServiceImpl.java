@@ -10,7 +10,7 @@ import com.ird.faa.bean.config.Langue;
 import com.ird.faa.dao.config.LangueDao;
 import com.ird.faa.service.chercheur.facade.config.LangueChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.LangueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.LangueVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

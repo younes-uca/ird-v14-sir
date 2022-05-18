@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.Institution;
-import com.ird.faa.ws.rest.provided.vo.InstitutionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.InstitutionVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface InstitutionChercheurService extends AbstractService<Institution,Long,InstitutionVo>{

@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.Corps;
-import com.ird.faa.ws.rest.provided.vo.CorpsVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.CorpsVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface CorpsAdminService extends AbstractService<Corps,Long,CorpsVo>{

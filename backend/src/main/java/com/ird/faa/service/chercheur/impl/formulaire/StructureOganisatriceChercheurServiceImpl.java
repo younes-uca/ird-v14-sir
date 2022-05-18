@@ -19,7 +19,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.StructureOganisatriceCher
 import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
-import com.ird.faa.ws.rest.provided.vo.StructureOganisatriceVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.StructureOganisatriceVo;
 
 @Service
 public class StructureOganisatriceChercheurServiceImpl extends AbstractServiceImpl<StructureOganisatrice>

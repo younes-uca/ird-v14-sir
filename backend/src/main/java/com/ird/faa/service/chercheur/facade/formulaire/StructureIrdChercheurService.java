@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.StructureIrd;
-import com.ird.faa.ws.rest.provided.vo.StructureIrdVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.StructureIrdVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface StructureIrdChercheurService extends AbstractService<StructureIrd,Long,StructureIrdVo>{

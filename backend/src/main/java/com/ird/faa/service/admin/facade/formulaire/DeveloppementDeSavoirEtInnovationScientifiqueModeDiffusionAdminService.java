@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusion;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusionVo;
 
 public interface DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusionAdminService extends
 		AbstractService<DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusion, Long, DeveloppementDeSavoirEtInnovationScientifiqueModeDiffusionVo> {

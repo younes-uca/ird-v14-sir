@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.StatusContratEtConvention;
-import com.ird.faa.ws.rest.provided.vo.StatusContratEtConventionVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.StatusContratEtConventionVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface StatusContratEtConventionChercheurService extends AbstractService<StatusContratEtConvention,Long,StatusContratEtConventionVo>{

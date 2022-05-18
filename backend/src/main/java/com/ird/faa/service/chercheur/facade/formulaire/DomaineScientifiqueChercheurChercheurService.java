@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.DomaineScientifiqueChercheur;
-import com.ird.faa.ws.rest.provided.vo.DomaineScientifiqueChercheurVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DomaineScientifiqueChercheurVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface DomaineScientifiqueChercheurChercheurService extends AbstractService<DomaineScientifiqueChercheur,Long,DomaineScientifiqueChercheurVo>{

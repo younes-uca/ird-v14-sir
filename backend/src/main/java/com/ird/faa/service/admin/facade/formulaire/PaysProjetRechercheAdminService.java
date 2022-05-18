@@ -2,7 +2,7 @@ package com.ird.faa.service.admin.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.PaysProjetRecherche;
-import com.ird.faa.ws.rest.provided.vo.PaysProjetRechercheVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.PaysProjetRechercheVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PaysProjetRechercheAdminService extends AbstractService<PaysProjetRecherche,Long,PaysProjetRechercheVo>{

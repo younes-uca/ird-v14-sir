@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.PubliqueProfessionel;
-import com.ird.faa.ws.rest.provided.vo.PubliqueProfessionelVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.PubliqueProfessionelVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface PubliqueProfessionelChercheurService extends AbstractService<PubliqueProfessionel,Long,PubliqueProfessionelVo>{

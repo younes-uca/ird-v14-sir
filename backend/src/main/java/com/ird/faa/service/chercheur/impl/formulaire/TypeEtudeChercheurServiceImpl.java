@@ -12,7 +12,7 @@ import com.ird.faa.bean.referentiel.TypeEtude;
 import com.ird.faa.dao.formulaire.TypeEtudeDao;
 import com.ird.faa.service.chercheur.facade.formulaire.TypeEtudeChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.TypeEtudeVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.TypeEtudeVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.facade.ArchivableService;

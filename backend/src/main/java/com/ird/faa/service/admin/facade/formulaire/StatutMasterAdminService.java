@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.StatutMaster;
-import com.ird.faa.ws.rest.provided.vo.StatutMasterVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.StatutMasterVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface StatutMasterAdminService extends AbstractService<StatutMaster,Long,StatutMasterVo>{

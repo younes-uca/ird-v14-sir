@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueEvenementColloqueScientifique;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.DisciplineScientifiqueEvenementColloqueScientifiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.DisciplineScientifiqueEvenementColloqueScientifiqueVo;
 
 public interface DisciplineScientifiqueEvenementColloqueScientifiqueChercheurService extends
 		AbstractService<DisciplineScientifiqueEvenementColloqueScientifique, Long, DisciplineScientifiqueEvenementColloqueScientifiqueVo> {

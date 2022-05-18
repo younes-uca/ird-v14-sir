@@ -22,7 +22,7 @@ import com.ird.faa.service.chercheur.facade.formulaire.CampagneChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.CampagneRappelChercheurService;
         import com.ird.faa.service.chercheur.facade.formulaire.CampagneChercheurFermetureChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.CampagneVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.CampagneVo;
 import com.ird.faa.service.util.*;
         import com.ird.faa.bean.formulaire.CampagneChercheur;
         import com.ird.faa.bean.formulaire.Chercheur;

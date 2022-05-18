@@ -33,7 +33,7 @@ import com.ird.faa.service.admin.facade.formulaire.TypeEtudeEnseignementAdminSer
 import com.ird.faa.service.admin.facade.formulaire.ModaliteEtudeAdminService;
 import com.ird.faa.service.admin.facade.formulaire.EnseignementZoneGeographiqueAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.EnseignementVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

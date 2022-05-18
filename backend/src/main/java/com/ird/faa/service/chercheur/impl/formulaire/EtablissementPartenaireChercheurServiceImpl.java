@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.EtablissementPartenaire;
 import com.ird.faa.dao.formulaire.EtablissementPartenaireDao;
 import com.ird.faa.service.chercheur.facade.formulaire.EtablissementPartenaireChercheurService;
 
-import com.ird.faa.ws.rest.provided.vo.EtablissementPartenaireVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EtablissementPartenaireVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

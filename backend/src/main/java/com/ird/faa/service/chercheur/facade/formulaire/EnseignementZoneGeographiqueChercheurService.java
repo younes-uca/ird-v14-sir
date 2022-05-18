@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import java.util.List;
 import com.ird.faa.bean.formulaire.EnseignementZoneGeographique;
-import com.ird.faa.ws.rest.provided.vo.EnseignementZoneGeographiqueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.EnseignementZoneGeographiqueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface EnseignementZoneGeographiqueChercheurService extends AbstractService<EnseignementZoneGeographique,Long,EnseignementZoneGeographiqueVo>{

@@ -2,7 +2,7 @@ package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.referentiel.RoleEvaluation;
 import com.ird.faa.service.core.facade.AbstractService;
-import com.ird.faa.ws.rest.provided.vo.RoleEvaluationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.RoleEvaluationVo;
 
 public interface RoleEvaluationChercheurService extends AbstractService<RoleEvaluation,Long,RoleEvaluationVo>{
 

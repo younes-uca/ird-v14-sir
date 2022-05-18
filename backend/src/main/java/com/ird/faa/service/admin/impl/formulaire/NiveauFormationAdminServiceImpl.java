@@ -10,7 +10,7 @@ import com.ird.faa.bean.referentiel.NiveauFormation;
 import com.ird.faa.dao.formulaire.NiveauFormationDao;
 import com.ird.faa.service.admin.facade.formulaire.NiveauFormationAdminService;
 
-import com.ird.faa.ws.rest.provided.vo.NiveauFormationVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.referentiel.NiveauFormationVo;
 import com.ird.faa.service.util.*;
 
 import com.ird.faa.service.core.impl.AbstractServiceImpl;

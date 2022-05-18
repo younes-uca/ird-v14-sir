@@ -1,7 +1,7 @@
 package com.ird.faa.service.chercheur.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.ModaliteFormationContinue;
-import com.ird.faa.ws.rest.provided.vo.ModaliteFormationContinueVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.ModaliteFormationContinueVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface ModaliteFormationContinueChercheurService extends AbstractService<ModaliteFormationContinue,Long,ModaliteFormationContinueVo>{

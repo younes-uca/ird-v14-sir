@@ -16,7 +16,7 @@ import com.ird.faa.service.core.impl.AbstractServiceImpl;
 import com.ird.faa.service.util.ListUtil;
 import com.ird.faa.service.util.SearchUtil;
 import com.ird.faa.service.util.StringUtil;
-import com.ird.faa.ws.rest.provided.vo.RoleDeveloppementDeSavoirVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.config.RoleDeveloppementDeSavoirVo;
 
 @Service
 public class RoleDeveloppementDeSavoirChercheurServiceImpl extends AbstractServiceImpl<RoleDeveloppementDeSavoir>

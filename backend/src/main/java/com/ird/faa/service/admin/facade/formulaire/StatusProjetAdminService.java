@@ -1,7 +1,7 @@
 package com.ird.faa.service.admin.facade.formulaire;
 
 import com.ird.faa.bean.formulaire.StatusProjet;
-import com.ird.faa.ws.rest.provided.vo.StatusProjetVo;
+import main.java.com.ird.faa.ws.rest.provided.vo.formulaire.StatusProjetVo;
 import com.ird.faa.service.core.facade.AbstractService;
 
 public interface StatusProjetAdminService extends AbstractService<StatusProjet,Long,StatusProjetVo>{
