@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bcf65f4-96bd-4475-8bd1-313c7f7bcd6e" name="Changes" comment="ChangesByMohamed2" />
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="2b95033f-f10b-4f56-8c55-a118630af40d" name="Changes" comment="dao change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/AffectationStructurelleAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/AffectationStructurelleAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ContexteAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ContexteAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ContinentAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ContinentAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/CorpsAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/CorpsAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/EnjeuxIrdAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/EnjeuxIrdAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/EntiteAdministrativeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/EntiteAdministrativeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/EtablissementAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/EtablissementAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/GradeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/GradeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/IdentifiantRechercheAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/IdentifiantRechercheAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/InstitutionAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/InstitutionAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/InstrumentIrdAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/InstrumentIrdAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/KeyWordAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/KeyWordAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/MasterAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/MasterAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/MasterInternationalAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/MasterInternationalAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ModaliteAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ModaliteAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ModaliteEtudeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ModaliteEtudeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ModaliteInterventionAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ModaliteInterventionAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ModeDiffusionAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ModeDiffusionAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/NationaliteAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/NationaliteAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/NatureActiviteGrandPubliqueAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/NatureActiviteGrandPubliqueAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/NatureEnseignementAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/NatureEnseignementAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/NatureEtudeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/NatureEtudeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/NatureExpertiseAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/NatureExpertiseAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/NiveauEtudeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/NiveauEtudeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/NiveauFormationAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/NiveauFormationAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/NiveauFormationPostBacAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/NiveauFormationPostBacAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ObjetGlobalAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ObjetGlobalAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/OrganismeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/OrganismeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/PaysAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/PaysAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/PublicCibleAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/PublicCibleAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/PubliqueFormationAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/PubliqueFormationAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/PubliqueProfessionelAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/PubliqueProfessionelAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ResponsabilitePedagogiqueAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ResponsabilitePedagogiqueAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/RoleEvaluationAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/RoleEvaluationAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/RoleEvaluationRechercheUniversitaireAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/RoleEvaluationRechercheUniversitaireAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/RoleProjetAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/RoleProjetAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/SexeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/SexeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/StatutEcoleDoctoraleAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/StatutEcoleDoctoraleAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/StatutMasterAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/StatutMasterAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/StructureIrdAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/StructureIrdAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeEnseignementAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeEnseignementAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeEnseignementDispenseAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeEnseignementDispenseAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeEntiteAdministrativeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeEntiteAdministrativeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeEtudeAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeEtudeAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeExpertAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeExpertAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeExpertiseAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeExpertiseAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeInstanceAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeInstanceAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeInstrumentIrdAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeInstrumentIrdAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeOutilAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeOutilAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeParticipationAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeParticipationAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeReclamationAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeReclamationAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeSavoirAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeSavoirAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/TypeUtilisateurAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/TypeUtilisateurAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/VieInstitutionnelleAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/VieInstitutionnelleAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/VilleAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/VilleAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/formulaire/ZoneGeographiqueAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/facade/refrentiel/ZoneGeographiqueAdminService.java" afterDir="false" />
+    </list>
+>>>>>>> origin/main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +79,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="29JbZW5WIeAfFckkjVH5s7Ka6iS" />
   <component name="ProjectLevelVcsManager">
+=======
+  <component name="ProjectId" id="29JSERxeWmfWSu1U1MPE69VzbsQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+>>>>>>> origin/main
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -29,6 +97,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -40,11 +109,26 @@
       <recent name="C:\Users\hp\IdeaProjects\ird-v14-sir\backend\src\main\java\com\ird\faa\service\chercheur" />
       <recent name="C:\Users\hp\IdeaProjects\ird-v14-sir\backend\src\main\java\com\ird\faa\service\chercheur\facade\referentiel" />
       <recent name="C:\Users\hp\IdeaProjects\ird-v14-sir\backend\src\main\java\com\ird\faa\service\admin\impl\referentiel" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/impl" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\service\admin\impl" />
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\service\admin\facade" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\service\admin\facade\refrentiel" />
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\service\admin\facade\Ref" />
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\service\admin\facade\referentiel" />
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\dao\referentiel" />
+>>>>>>> origin/main
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="7bcf65f4-96bd-4475-8bd1-313c7f7bcd6e" name="Changes" comment="" />
       <created>1652834193238</created>
       <option name="number" value="Default" />
@@ -65,6 +149,29 @@
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1652838882489</updated>
+=======
+      <changelist id="2b95033f-f10b-4f56-8c55-a118630af40d" name="Changes" comment="" />
+      <created>1652829585083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652829585083</updated>
+      <workItem from="1652829586675" duration="2283000" />
+      <workItem from="1652832335909" duration="2142000" />
+    </task>
+    <task id="LOCAL-00001" summary="dao change">
+      <created>1652832607508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652832607508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dao change">
+      <created>1652832660965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652832660965</updated>
+>>>>>>> origin/main
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -85,8 +192,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+<<<<<<< HEAD
     <MESSAGE value="ChangesByMohamed(2 missing files:'OUtilPedagogique' And 'TypeOutilPedagogique' in Admin-&gt;impl-&gt;referentiel)" />
     <MESSAGE value="ChangesByMohamed2" />
     <option name="LAST_COMMIT_MESSAGE" value="ChangesByMohamed2" />
+=======
+    <MESSAGE value="dao change" />
+    <option name="LAST_COMMIT_MESSAGE" value="dao change" />
+>>>>>>> origin/main
   </component>
 </project>
