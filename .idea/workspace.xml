@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b95033f-f10b-4f56-8c55-a118630af40d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/AffectationStructurelleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/ContexteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/ContinentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/CorpsDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/EnjeuxIrdDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/EntiteAdministrativeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/EtablissementDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/GradeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/IdentifiantRechercheDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/InstitutionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/InstrumentIrdDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/KeyWordDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/MasterDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/MasterInternationalDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/ModaliteEtudeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/ModaliteInterventionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/ModeDiffusionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/NationaliteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/NatureActiviteGrandPubliqueDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/NatureEnseignementDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/NatureEtudeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/NatureExpertiseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/NiveauEtudeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/NiveauFormationDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/NiveauFormationPostBacDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/ObjetGlobalDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/OrganismeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/OutilPedagogiqueDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/PaysDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/PublicCibleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/PubliqueFormationDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/PubliqueProfessionelDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/ResponsabilitePedagogiqueDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/RoleEvaluationDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/RoleEvaluationRechercheUniversitaireDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/RoleProjetDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/SexeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/StatutEcoleDoctoraleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/StatutMasterDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/StructureIrdDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeEnseignementDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeEnseignementDispenseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeEntiteAdministrativeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeEtudeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeExpertDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeInstanceDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeInstrumentIrdDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeInstrumentsEtDispositifsIrdDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeOutilDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeOutilPedagogiqueDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeParticipationDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypePubliqueRencontreMediaDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeReclamationDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeSavoirDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/TypeUtilisateurDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/VieInstitutionnelleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/VilleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/dao/formulaire/ZoneGeographiqueDao.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29JSERxeWmfWSu1U1MPE69VzbsQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/src/main/java/com/ird/faa/service/admin/impl" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\service\admin\impl" />
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\service\admin\facade" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Achraf\Desktop\PROF\backend\src\main\java\com\ird\faa\dao\referentiel" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b95033f-f10b-4f56-8c55-a118630af40d" name="Changes" comment="" />
+      <created>1652829585083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652829585083</updated>
+      <workItem from="1652829586675" duration="2283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
